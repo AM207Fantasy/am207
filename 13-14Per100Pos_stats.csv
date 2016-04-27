@@ -1,11 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 Rk,Player,Pos,Age,Tm,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,,ORtg,DRtg\
 1,Quincy Acy,SF,23,TOT,63,0,847,4.0,8.5,.468,0.2,0.9,.267,3.7,7.6,.492,2.1,3.2,.660,4.3,8.7,13.0,1.7,1.4,1.6,1.8,7.3,10.3,,109,107\
 1,Quincy Acy,SF,23,TOR,7,0,61,5.1,12.0,.429,1.7,4.3,.400,3.4,7.7,.444,4.3,6.9,.625,4.3,8.6,12.9,3.4,3.4,2.6,1.7,6.9,16.3,,118,98\
@@ -641,4 +633,4 @@ Rk,Player,Pos,Age,Tm,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,FT,FTA,FT%,ORB,DRB
 480,Thaddeus Young,PF,25,PHI,79,78,2718,10.4,22.9,.454,1.6,5.2,.308,8.8,17.7,.496,2.9,4.1,.712,3.0,5.5,8.5,3.2,3.0,0.6,2.9,3.8,25.2,,101,108\
 Rk,Player,Pos,Age,Tm,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,,ORtg,DRtg\
 481,Cody Zeller,C,21,CHA,82,3,1416,6.3,14.8,.426,0.0,0.0,.000,6.3,14.8,.427,5.4,7.3,.730,4.3,8.6,12.9,3.4,1.5,1.5,3.2,6.2,18.0,,101,102\
-482,Tyler Zeller,C,24,CLE,70,9,1049,7.7,14.3,.538,0.0,0.0,.000,7.7,14.2,.540,4.3,5.9,.719,5.1,8.8,13.9,1.8,0.9,1.9,2.9,6.7,19.6,,112,107}
+482,Tyler Zeller,C,24,CLE,70,9,1049,7.7,14.3,.538,0.0,0.0,.000,7.7,14.2,.540,4.3,5.9,.719,5.1,8.8,13.9,1.8,0.9,1.9,2.9,6.7,19.6,,112,107
