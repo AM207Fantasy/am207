@@ -1,0 +1,1231 @@
+,Visitor/Neutral,PTS,Home/Neutral,PTS.1,Year,diff
+1,Detroit Pistons,106.0,Atlanta Hawks,94.0,2016,12.0
+2,Cleveland Cavaliers,95.0,Chicago Bulls,97.0,2016,-2.0
+3,New Orleans Pelicans,95.0,Golden State Warriors,111.0,2016,-16.0
+4,Philadelphia 76ers,95.0,Boston Celtics,112.0,2016,-17.0
+5,Chicago Bulls,115.0,Brooklyn Nets,100.0,2016,15.0
+6,Utah Jazz,87.0,Detroit Pistons,92.0,2016,-5.0
+7,Denver Nuggets,105.0,Houston Rockets,85.0,2016,20.0
+8,Minnesota Timberwolves,112.0,Los Angeles Lakers,111.0,2016,1.0
+9,Cleveland Cavaliers,106.0,Memphis Grizzlies,76.0,2016,30.0
+10,Charlotte Hornets,94.0,Miami Heat,104.0,2016,-10.0
+11,New York Knicks,122.0,Milwaukee Bucks,97.0,2016,25.0
+12,San Antonio Spurs,106.0,Oklahoma City Thunder,112.0,2016,-6.0
+13,Washington Wizards,88.0,Orlando Magic,87.0,2016,1.0
+14,Dallas Mavericks,111.0,Phoenix Suns,95.0,2016,16.0
+15,New Orleans Pelicans,94.0,Portland Trail Blazers,112.0,2016,-18.0
+16,Los Angeles Clippers,111.0,Sacramento Kings,104.0,2016,7.0
+17,Indiana Pacers,99.0,Toronto Raptors,106.0,2016,-7.0
+18,Memphis Grizzlies,112.0,Indiana Pacers,103.0,2016,9.0
+19,Dallas Mavericks,88.0,Los Angeles Clippers,104.0,2016,-16.0
+20,Atlanta Hawks,112.0,New York Knicks,101.0,2016,11.0
+21,Charlotte Hornets,94.0,Atlanta Hawks,97.0,2016,-3.0
+22,Toronto Raptors,113.0,Boston Celtics,103.0,2016,10.0
+23,Miami Heat,92.0,Cleveland Cavaliers,102.0,2016,-10.0
+24,Minnesota Timberwolves,95.0,Denver Nuggets,78.0,2016,17.0
+25,Chicago Bulls,94.0,Detroit Pistons,98.0,2016,-4.0
+26,Golden State Warriors,112.0,Houston Rockets,92.0,2016,20.0
+27,Washington Wizards,118.0,Milwaukee Bucks,113.0,2016,5.0
+28,Oklahoma City Thunder,139.0,Orlando Magic,136.0,2016,3.0
+29,Utah Jazz,99.0,Philadelphia 76ers,71.0,2016,28.0
+30,Portland Trail Blazers,92.0,Phoenix Suns,110.0,2016,-18.0
+31,Los Angeles Lakers,114.0,Sacramento Kings,132.0,2016,-18.0
+32,Brooklyn Nets,75.0,San Antonio Spurs,102.0,2016,-27.0
+33,Utah Jazz,97.0,Indiana Pacers,76.0,2016,21.0
+34,Sacramento Kings,109.0,Los Angeles Clippers,114.0,2016,-5.0
+35,Brooklyn Nets,91.0,Memphis Grizzlies,101.0,2016,-10.0
+36,Golden State Warriors,134.0,New Orleans Pelicans,120.0,2016,14.0
+37,Phoenix Suns,101.0,Portland Trail Blazers,90.0,2016,11.0
+38,New York Knicks,117.0,Washington Wizards,110.0,2016,7.0
+40,San Antonio Spurs,95.0,Boston Celtics,87.0,2016,8.0
+41,Orlando Magic,87.0,Chicago Bulls,92.0,2016,-5.0
+42,Atlanta Hawks,94.0,Charlotte Hornets,92.0,2016,2.0
+43,Dallas Mavericks,103.0,Los Angeles Lakers,93.0,2016,10.0
+44,Houston Rockets,89.0,Miami Heat,109.0,2016,-20.0
+45,Denver Nuggets,93.0,Oklahoma City Thunder,117.0,2016,-24.0
+46,Milwaukee Bucks,87.0,Toronto Raptors,106.0,2016,-19.0
+47,Milwaukee Bucks,103.0,Brooklyn Nets,96.0,2016,7.0
+48,Memphis Grizzlies,69.0,Golden State Warriors,119.0,2016,-50.0
+49,Oklahoma City Thunder,105.0,Houston Rockets,110.0,2016,-5.0
+50,Phoenix Suns,96.0,Los Angeles Clippers,102.0,2016,-6.0
+51,Portland Trail Blazers,106.0,Minnesota Timberwolves,101.0,2016,5.0
+52,San Antonio Spurs,94.0,New York Knicks,84.0,2016,10.0
+53,Cleveland Cavaliers,107.0,Philadelphia 76ers,100.0,2016,7.0
+54,Chicago Bulls,105.0,Charlotte Hornets,130.0,2016,-25.0
+55,Toronto Raptors,102.0,Dallas Mavericks,91.0,2016,11.0
+56,Indiana Pacers,94.0,Detroit Pistons,82.0,2016,12.0
+57,Denver Nuggets,120.0,Los Angeles Lakers,109.0,2016,11.0
+58,Atlanta Hawks,98.0,Miami Heat,92.0,2016,6.0
+59,Orlando Magic,103.0,New Orleans Pelicans,94.0,2016,9.0
+60,Memphis Grizzlies,103.0,Sacramento Kings,89.0,2016,14.0
+61,Brooklyn Nets,87.0,Atlanta Hawks,101.0,2016,-14.0
+62,New York Knicks,86.0,Cleveland Cavaliers,96.0,2016,-10.0
+63,Los Angeles Clippers,108.0,Golden State Warriors,112.0,2016,-4.0
+64,Orlando Magic,114.0,Houston Rockets,119.0,2016,-5.0
+65,Boston Celtics,98.0,Indiana Pacers,100.0,2016,-2.0
+66,Philadelphia 76ers,87.0,Milwaukee Bucks,91.0,2016,-4.0
+67,Toronto Raptors,103.0,Oklahoma City Thunder,98.0,2016,5.0
+68,Sacramento Kings,97.0,Phoenix Suns,118.0,2016,-21.0
+69,Portland Trail Blazers,108.0,Utah Jazz,92.0,2016,16.0
+70,San Antonio Spurs,99.0,Washington Wizards,102.0,2016,-3.0
+71,Oklahoma City Thunder,98.0,Chicago Bulls,104.0,2016,-6.0
+72,Charlotte Hornets,108.0,Dallas Mavericks,94.0,2016,14.0
+73,Utah Jazz,96.0,Denver Nuggets,84.0,2016,12.0
+74,Miami Heat,96.0,Minnesota Timberwolves,84.0,2016,12.0
+75,Memphis Grizzlies,96.0,Portland Trail Blazers,115.0,2016,-19.0
+76,Washington Wizards,98.0,Boston Celtics,118.0,2016,-20.0
+77,Los Angeles Lakers,104.0,Brooklyn Nets,98.0,2016,6.0
+78,Philadelphia 76ers,102.0,Cleveland Cavaliers,108.0,2016,-6.0
+79,Denver Nuggets,104.0,Golden State Warriors,119.0,2016,-15.0
+80,Miami Heat,87.0,Indiana Pacers,90.0,2016,-3.0
+81,Atlanta Hawks,121.0,New Orleans Pelicans,115.0,2016,6.0
+82,Milwaukee Bucks,99.0,New York Knicks,92.0,2016,7.0
+83,Toronto Raptors,87.0,Orlando Magic,92.0,2016,-5.0
+84,Detroit Pistons,100.0,Phoenix Suns,92.0,2016,8.0
+85,Houston Rockets,116.0,Sacramento Kings,110.0,2016,6.0
+86,Washington Wizards,99.0,Atlanta Hawks,114.0,2016,-15.0
+87,Minnesota Timberwolves,102.0,Chicago Bulls,93.0,2016,9.0
+88,New Orleans Pelicans,98.0,Dallas Mavericks,107.0,2016,-9.0
+89,Houston Rockets,109.0,Los Angeles Clippers,105.0,2016,4.0
+90,Brooklyn Nets,86.0,Milwaukee Bucks,94.0,2016,-8.0
+91,Orlando Magic,105.0,Philadelphia 76ers,97.0,2016,8.0
+92,Golden State Warriors,103.0,Sacramento Kings,94.0,2016,9.0
+93,Charlotte Hornets,94.0,San Antonio Spurs,114.0,2016,-20.0
+94,Memphis Grizzlies,79.0,Utah Jazz,89.0,2016,-10.0
+95,Indiana Pacers,97.0,Cleveland Cavaliers,101.0,2016,-4.0
+96,Toronto Raptors,76.0,Miami Heat,96.0,2016,-20.0
+97,Los Angeles Lakers,95.0,New York Knicks,99.0,2016,-4.0
+98,Phoenix Suns,103.0,Oklahoma City Thunder,124.0,2016,-21.0
+99,Detroit Pistons,120.0,Portland Trail Blazers,103.0,2016,17.0
+100,Minnesota Timberwolves,117.0,Atlanta Hawks,107.0,2016,10.0
+101,Portland Trail Blazers,104.0,Denver Nuggets,108.0,2016,-4.0
+102,Detroit Pistons,95.0,Golden State Warriors,109.0,2016,-14.0
+103,Orlando Magic,84.0,Indiana Pacers,97.0,2016,-13.0
+104,Memphis Grizzlies,92.0,Los Angeles Clippers,94.0,2016,-2.0
+105,Chicago Bulls,111.0,Philadelphia 76ers,88.0,2016,23.0
+106,San Antonio Spurs,106.0,Sacramento Kings,88.0,2016,18.0
+107,Utah Jazz,114.0,Cleveland Cavaliers,118.0,2016,-4.0
+108,Los Angeles Lakers,88.0,Miami Heat,101.0,2016,-13.0
+109,Boston Celtics,99.0,Milwaukee Bucks,83.0,2016,16.0
+110,Charlotte Hornets,104.0,Minnesota Timberwolves,95.0,2016,9.0
+111,Dallas Mavericks,105.0,New Orleans Pelicans,120.0,2016,-15.0
+112,New York Knicks,111.0,Toronto Raptors,109.0,2016,2.0
+113,Oklahoma City Thunder,125.0,Washington Wizards,101.0,2016,24.0
+114,New Orleans Pelicans,98.0,Atlanta Hawks,106.0,2016,-8.0
+115,Indiana Pacers,102.0,Boston Celtics,91.0,2016,11.0
+116,New York Knicks,93.0,Charlotte Hornets,95.0,2016,-2.0
+117,Los Angeles Clippers,108.0,Dallas Mavericks,118.0,2016,-10.0
+118,Milwaukee Bucks,102.0,Denver Nuggets,103.0,2016,-1.0
+119,Brooklyn Nets,106.0,Houston Rockets,98.0,2016,8.0
+120,Golden State Warriors,100.0,Memphis Grizzlies,84.0,2016,16.0
+121,Los Angeles Lakers,99.0,Orlando Magic,101.0,2016,-2.0
+122,Toronto Raptors,119.0,Philadelphia 76ers,103.0,2016,16.0
+123,San Antonio Spurs,113.0,Portland Trail Blazers,101.0,2016,12.0
+124,Detroit Pistons,92.0,Sacramento Kings,101.0,2016,-9.0
+125,Utah Jazz,91.0,Miami Heat,92.0,2016,-1.0
+126,Golden State Warriors,129.0,Minnesota Timberwolves,116.0,2016,13.0
+127,Los Angeles Clippers,104.0,Phoenix Suns,118.0,2016,-14.0
+128,Atlanta Hawks,93.0,Boston Celtics,106.0,2016,-13.0
+129,Charlotte Hornets,97.0,Chicago Bulls,102.0,2016,-5.0
+130,Los Angeles Lakers,82.0,Dallas Mavericks,90.0,2016,-8.0
+131,Houston Rockets,98.0,Denver Nuggets,107.0,2016,-9.0
+132,Minnesota Timberwolves,103.0,Indiana Pacers,107.0,2016,-4.0
+133,Portland Trail Blazers,100.0,Memphis Grizzlies,101.0,2016,-1.0
+134,Cleveland Cavaliers,90.0,New York Knicks,84.0,2016,6.0
+135,Philadelphia 76ers,85.0,Oklahoma City Thunder,102.0,2016,-17.0
+136,Utah Jazz,93.0,Orlando Magic,102.0,2016,-9.0
+137,Brooklyn Nets,109.0,Sacramento Kings,111.0,2016,-2.0
+138,New Orleans Pelicans,81.0,Toronto Raptors,100.0,2016,-19.0
+139,Brooklyn Nets,99.0,Golden State Warriors,107.0,2016,-8.0
+140,Dallas Mavericks,110.0,Houston Rockets,98.0,2016,12.0
+141,Detroit Pistons,96.0,Los Angeles Clippers,101.0,2016,-5.0
+142,Cleveland Cavaliers,105.0,Milwaukee Bucks,108.0,2016,-3.0
+143,Denver Nuggets,81.0,Phoenix Suns,105.0,2016,-24.0
+144,Philadelphia 76ers,83.0,San Antonio Spurs,92.0,2016,-9.0
+145,Orlando Magic,99.0,Washington Wizards,108.0,2016,-9.0
+146,Utah Jazz,97.0,Atlanta Hawks,96.0,2016,1.0
+147,Portland Trail Blazers,94.0,Charlotte Hornets,106.0,2016,-12.0
+148,Detroit Pistons,85.0,Los Angeles Lakers,97.0,2016,-12.0
+149,Memphis Grizzlies,114.0,Minnesota Timberwolves,106.0,2016,8.0
+150,New Orleans Pelicans,87.0,New York Knicks,95.0,2016,-8.0
+151,Boston Celtics,100.0,Oklahoma City Thunder,85.0,2016,15.0
+152,Toronto Raptors,101.0,Sacramento Kings,107.0,2016,-6.0
+153,Indiana Pacers,95.0,Chicago Bulls,96.0,2016,-1.0
+154,Boston Celtics,111.0,Houston Rockets,95.0,2016,16.0
+155,Oklahoma City Thunder,114.0,Memphis Grizzlies,122.0,2016,-8.0
+156,Dallas Mavericks,92.0,Philadelphia 76ers,86.0,2016,6.0
+157,Los Angeles Lakers,101.0,Phoenix Suns,120.0,2016,-19.0
+158,Portland Trail Blazers,80.0,San Antonio Spurs,93.0,2016,-13.0
+159,Atlanta Hawks,88.0,Brooklyn Nets,90.0,2016,-2.0
+160,Cleveland Cavaliers,99.0,Detroit Pistons,104.0,2016,-5.0
+161,Toronto Raptors,110.0,Golden State Warriors,115.0,2016,-5.0
+162,Minnesota Timberwolves,103.0,Miami Heat,91.0,2016,12.0
+163,Denver Nuggets,115.0,New Orleans Pelicans,98.0,2016,17.0
+164,Charlotte Hornets,94.0,New York Knicks,102.0,2016,-8.0
+165,Milwaukee Bucks,86.0,Washington Wizards,115.0,2016,-29.0
+166,Sacramento Kings,97.0,Atlanta Hawks,103.0,2016,-6.0
+167,Dallas Mavericks,106.0,Boston Celtics,102.0,2016,4.0
+168,Brooklyn Nets,111.0,Charlotte Hornets,116.0,2016,-5.0
+169,Portland Trail Blazers,103.0,Houston Rockets,108.0,2016,-5.0
+170,New Orleans Pelicans,103.0,Oklahoma City Thunder,110.0,2016,-7.0
+171,Minnesota Timberwolves,101.0,Orlando Magic,104.0,2016,-3.0
+172,Indiana Pacers,112.0,Philadelphia 76ers,85.0,2016,27.0
+173,Chicago Bulls,103.0,Phoenix Suns,97.0,2016,6.0
+174,Denver Nuggets,98.0,San Antonio Spurs,109.0,2016,-11.0
+175,Toronto Raptors,89.0,Utah Jazz,93.0,2016,-4.0
+176,Milwaukee Bucks,100.0,Cleveland Cavaliers,115.0,2016,-15.0
+177,Golden State Warriors,124.0,Los Angeles Clippers,117.0,2016,7.0
+178,Sacramento Kings,109.0,Miami Heat,116.0,2016,-7.0
+179,Brooklyn Nets,95.0,Boston Celtics,120.0,2016,-25.0
+180,Philadelphia 76ers,88.0,Charlotte Hornets,113.0,2016,-25.0
+181,Utah Jazz,93.0,Dallas Mavericks,102.0,2016,-9.0
+182,Phoenix Suns,114.0,Denver Nuggets,107.0,2016,7.0
+183,Chicago Bulls,94.0,Golden State Warriors,106.0,2016,-12.0
+184,Toronto Raptors,102.0,Los Angeles Lakers,91.0,2016,11.0
+185,Houston Rockets,84.0,Memphis Grizzlies,96.0,2016,-12.0
+186,Detroit Pistons,96.0,Minnesota Timberwolves,86.0,2016,10.0
+187,San Antonio Spurs,90.0,New Orleans Pelicans,104.0,2016,-14.0
+188,New York Knicks,93.0,Oklahoma City Thunder,90.0,2016,3.0
+189,Los Angeles Clippers,91.0,Portland Trail Blazers,102.0,2016,-11.0
+190,Atlanta Hawks,97.0,Cleveland Cavaliers,109.0,2016,-12.0
+191,Washington Wizards,97.0,Detroit Pistons,95.0,2016,2.0
+192,New York Knicks,107.0,Houston Rockets,102.0,2016,5.0
+193,Milwaukee Bucks,86.0,Indiana Pacers,123.0,2016,-37.0
+194,Philadelphia 76ers,91.0,Miami Heat,96.0,2016,-5.0
+195,Sacramento Kings,97.0,Orlando Magic,91.0,2016,6.0
+196,Memphis Grizzlies,82.0,San Antonio Spurs,92.0,2016,-10.0
+197,Boston Celtics,101.0,Brooklyn Nets,111.0,2016,-10.0
+198,Golden State Warriors,118.0,Denver Nuggets,105.0,2016,13.0
+199,Toronto Raptors,91.0,Los Angeles Clippers,80.0,2016,11.0
+200,Portland Trail Blazers,107.0,Los Angeles Lakers,93.0,2016,14.0
+201,Phoenix Suns,116.0,New Orleans Pelicans,122.0,2016,-6.0
+202,Dallas Mavericks,114.0,Oklahoma City Thunder,117.0,2016,-3.0
+203,Sacramento Kings,122.0,Charlotte Hornets,127.0,2016,-5.0
+204,Orlando Magic,103.0,Cleveland Cavaliers,117.0,2016,-14.0
+205,New York Knicks,78.0,Miami Heat,95.0,2016,-17.0
+206,Detroit Pistons,88.0,Milwaukee Bucks,109.0,2016,-21.0
+207,Philadelphia 76ers,95.0,Minnesota Timberwolves,100.0,2016,-5.0
+208,Phoenix Suns,84.0,San Antonio Spurs,98.0,2016,-14.0
+209,Oklahoma City Thunder,111.0,Utah Jazz,89.0,2016,22.0
+210,Boston Celtics,97.0,Atlanta Hawks,121.0,2016,-24.0
+211,Los Angeles Clippers,111.0,Denver Nuggets,94.0,2016,17.0
+212,Los Angeles Lakers,77.0,Golden State Warriors,111.0,2016,-34.0
+213,Dallas Mavericks,96.0,Memphis Grizzlies,110.0,2016,-14.0
+214,Chicago Bulls,93.0,Portland Trail Blazers,88.0,2016,5.0
+215,Indiana Pacers,123.0,Washington Wizards,106.0,2016,17.0
+216,Philadelphia 76ers,80.0,Boston Celtics,84.0,2016,-4.0
+217,Washington Wizards,87.0,Charlotte Hornets,101.0,2016,-14.0
+218,Miami Heat,81.0,Detroit Pistons,104.0,2016,-23.0
+219,Memphis Grizzlies,102.0,Houston Rockets,93.0,2016,9.0
+220,Utah Jazz,102.0,Los Angeles Clippers,91.0,2016,11.0
+221,Sacramento Kings,129.0,Milwaukee Bucks,118.0,2016,11.0
+222,Atlanta Hawks,95.0,Minnesota Timberwolves,99.0,2016,-4.0
+223,Brooklyn Nets,99.0,Oklahoma City Thunder,110.0,2016,-11.0
+224,New York Knicks,91.0,Orlando Magic,100.0,2016,-9.0
+225,New Orleans Pelicans,120.0,Phoenix Suns,114.0,2016,6.0
+226,Dallas Mavericks,83.0,San Antonio Spurs,88.0,2016,-5.0
+227,Cleveland Cavaliers,99.0,Toronto Raptors,103.0,2016,-4.0
+228,Washington Wizards,78.0,Boston Celtics,111.0,2016,-33.0
+229,Cleveland Cavaliers,95.0,Charlotte Hornets,90.0,2016,5.0
+230,San Antonio Spurs,91.0,Denver Nuggets,80.0,2016,11.0
+231,Philadelphia 76ers,114.0,Houston Rockets,116.0,2016,-2.0
+232,Chicago Bulls,92.0,Indiana Pacers,104.0,2016,-12.0
+233,New Orleans Pelicans,90.0,Los Angeles Clippers,111.0,2016,-21.0
+234,Atlanta Hawks,116.0,Memphis Grizzlies,101.0,2016,15.0
+235,Miami Heat,97.0,New York Knicks,78.0,2016,19.0
+236,Detroit Pistons,87.0,Oklahoma City Thunder,103.0,2016,-16.0
+237,Milwaukee Bucks,90.0,Orlando Magic,114.0,2016,-24.0
+238,Golden State Warriors,135.0,Phoenix Suns,116.0,2016,19.0
+239,Minnesota Timberwolves,101.0,Sacramento Kings,91.0,2016,10.0
+240,Brooklyn Nets,88.0,Cleveland Cavaliers,90.0,2016,-2.0
+241,Denver Nuggets,81.0,Dallas Mavericks,92.0,2016,-11.0
+242,Sacramento Kings,101.0,Golden State Warriors,120.0,2016,-19.0
+243,Los Angeles Lakers,96.0,Portland Trail Blazers,108.0,2016,-12.0
+244,Atlanta Hawks,88.0,San Antonio Spurs,108.0,2016,-20.0
+245,New Orleans Pelicans,87.0,Utah Jazz,101.0,2016,-14.0
+246,Toronto Raptors,84.0,Washington Wizards,82.0,2016,2.0
+247,Detroit Pistons,83.0,Brooklyn Nets,87.0,2016,-4.0
+248,Milwaukee Bucks,82.0,Charlotte Hornets,87.0,2016,-5.0
+249,Minnesota Timberwolves,99.0,Los Angeles Clippers,107.0,2016,-8.0
+250,Indiana Pacers,107.0,Los Angeles Lakers,103.0,2016,4.0
+251,Philadelphia 76ers,84.0,Memphis Grizzlies,92.0,2016,-8.0
+252,Houston Rockets,116.0,New York Knicks,111.0,2016,5.0
+253,Boston Celtics,91.0,Orlando Magic,110.0,2016,-19.0
+254,Phoenix Suns,107.0,Toronto Raptors,102.0,2016,5.0
+255,Oklahoma City Thunder,100.0,Atlanta Hawks,106.0,2016,-6.0
+256,San Antonio Spurs,89.0,Chicago Bulls,92.0,2016,-3.0
+257,Houston Rockets,105.0,Detroit Pistons,116.0,2016,-11.0
+258,Portland Trail Blazers,87.0,Los Angeles Clippers,102.0,2016,-15.0
+259,Boston Celtics,105.0,Miami Heat,95.0,2016,10.0
+260,Denver Nuggets,74.0,Milwaukee Bucks,92.0,2016,-18.0
+261,Dallas Mavericks,98.0,Sacramento Kings,112.0,2016,-14.0
+262,Golden State Warriors,106.0,Utah Jazz,103.0,2016,3.0
+264,Phoenix Suns,91.0,Brooklyn Nets,94.0,2016,-3.0
+265,Washington Wizards,97.0,Cleveland Cavaliers,85.0,2016,12.0
+266,Orlando Magic,96.0,Minnesota Timberwolves,93.0,2016,3.0
+267,Memphis Grizzlies,113.0,New Orleans Pelicans,104.0,2016,9.0
+268,Los Angeles Lakers,91.0,Philadelphia 76ers,103.0,2016,-12.0
+269,Dallas Mavericks,115.0,Portland Trail Blazers,112.0,2016,3.0
+270,Toronto Raptors,96.0,Atlanta Hawks,86.0,2016,10.0
+271,Denver Nuggets,90.0,Chicago Bulls,99.0,2016,-9.0
+272,Golden State Warriors,116.0,Charlotte Hornets,99.0,2016,17.0
+273,Phoenix Suns,122.0,Detroit Pistons,127.0,2016,-5.0
+274,New Orleans Pelicans,101.0,Houston Rockets,108.0,2016,-7.0
+275,Indiana Pacers,103.0,Los Angeles Clippers,91.0,2016,12.0
+276,Philadelphia 76ers,87.0,New York Knicks,99.0,2016,-12.0
+277,Milwaukee Bucks,70.0,San Antonio Spurs,95.0,2016,-25.0
+278,Los Angeles Lakers,108.0,Washington Wizards,104.0,2016,4.0
+279,San Antonio Spurs,103.0,Memphis Grizzlies,83.0,2016,20.0
+280,Oklahoma City Thunder,95.0,Miami Heat,97.0,2016,-2.0
+281,Indiana Pacers,111.0,Portland Trail Blazers,123.0,2016,-12.0
+282,Boston Celtics,114.0,Sacramento Kings,97.0,2016,17.0
+283,Denver Nuggets,106.0,Toronto Raptors,105.0,2016,1.0
+284,Orlando Magic,103.0,Utah Jazz,94.0,2016,9.0
+285,Los Angeles Lakers,87.0,Atlanta Hawks,100.0,2016,-13.0
+286,Houston Rockets,100.0,Dallas Mavericks,96.0,2016,4.0
+287,Milwaukee Bucks,95.0,Detroit Pistons,102.0,2016,-7.0
+288,Cleveland Cavaliers,108.0,New Orleans Pelicans,114.0,2016,-6.0
+289,Brooklyn Nets,91.0,New York Knicks,108.0,2016,-17.0
+290,Phoenix Suns,106.0,Washington Wizards,109.0,2016,-3.0
+291,Charlotte Hornets,102.0,Chicago Bulls,96.0,2016,6.0
+292,Sacramento Kings,113.0,Houston Rockets,120.0,2016,-7.0
+293,Orlando Magic,101.0,Los Angeles Clippers,103.0,2016,-2.0
+294,Cleveland Cavaliers,84.0,Miami Heat,99.0,2016,-15.0
+295,New York Knicks,91.0,Milwaukee Bucks,106.0,2016,-15.0
+296,Portland Trail Blazers,109.0,Minnesota Timberwolves,103.0,2016,6.0
+297,Denver Nuggets,108.0,Philadelphia 76ers,105.0,2016,3.0
+298,Boston Celtics,105.0,San Antonio Spurs,108.0,2016,-3.0
+299,Golden State Warriors,112.0,Toronto Raptors,109.0,2016,3.0
+300,Indiana Pacers,119.0,Utah Jazz,122.0,2016,-3.0
+301,Golden State Warriors,114.0,Brooklyn Nets,98.0,2016,16.0
+302,Los Angeles Lakers,91.0,Detroit Pistons,111.0,2016,-20.0
+303,Phoenix Suns,93.0,Memphis Grizzlies,95.0,2016,-2.0
+304,Sacramento Kings,95.0,Oklahoma City Thunder,98.0,2016,-3.0
+305,Dallas Mavericks,116.0,Washington Wizards,104.0,2016,12.0
+306,Phoenix Suns,103.0,Chicago Bulls,101.0,2016,2.0
+307,Detroit Pistons,84.0,Charlotte Hornets,104.0,2016,-20.0
+308,Washington Wizards,114.0,Miami Heat,103.0,2016,11.0
+309,Portland Trail Blazers,88.0,Milwaukee Bucks,90.0,2016,-2.0
+310,Los Angeles Clippers,110.0,Minnesota Timberwolves,106.0,2016,4.0
+311,Boston Celtics,111.0,New Orleans Pelicans,93.0,2016,18.0
+312,Dallas Mavericks,104.0,New York Knicks,97.0,2016,7.0
+313,San Antonio Spurs,119.0,Philadelphia 76ers,68.0,2016,51.0
+314,Los Angeles Lakers,93.0,Toronto Raptors,102.0,2016,-9.0
+315,Houston Rockets,105.0,Brooklyn Nets,110.0,2016,-5.0
+316,Portland Trail Blazers,100.0,Cleveland Cavaliers,105.0,2016,-5.0
+317,Orlando Magic,85.0,Denver Nuggets,74.0,2016,11.0
+318,Golden State Warriors,131.0,Indiana Pacers,123.0,2016,8.0
+319,Oklahoma City Thunder,125.0,Memphis Grizzlies,88.0,2016,37.0
+320,Utah Jazz,106.0,Sacramento Kings,114.0,2016,-8.0
+321,Chicago Bulls,100.0,Boston Celtics,105.0,2016,-5.0
+322,Miami Heat,81.0,Charlotte Hornets,99.0,2016,-18.0
+323,Atlanta Hawks,98.0,Dallas Mavericks,95.0,2016,3.0
+324,Memphis Grizzlies,93.0,Detroit Pistons,92.0,2016,1.0
+325,Los Angeles Clippers,109.0,Milwaukee Bucks,95.0,2016,14.0
+326,Los Angeles Lakers,122.0,Minnesota Timberwolves,123.0,2016,-1.0
+327,Orlando Magic,104.0,Phoenix Suns,107.0,2016,-3.0
+328,San Antonio Spurs,94.0,Toronto Raptors,97.0,2016,-3.0
+329,New York Knicks,85.0,Utah Jazz,106.0,2016,-21.0
+330,Houston Rockets,109.0,Washington Wizards,103.0,2016,6.0
+331,Philadelphia 76ers,91.0,Brooklyn Nets,100.0,2016,-9.0
+332,Los Angeles Clippers,80.0,Chicago Bulls,83.0,2016,-3.0
+333,Atlanta Hawks,94.0,Oklahoma City Thunder,107.0,2016,-13.0
+334,New York Knicks,97.0,Sacramento Kings,99.0,2016,-2.0
+335,Golden State Warriors,124.0,Boston Celtics,119.0,2016,5.0
+336,Minnesota Timberwolves,108.0,Denver Nuggets,111.0,2016,-3.0
+337,Miami Heat,83.0,Indiana Pacers,96.0,2016,-13.0
+338,Charlotte Hornets,123.0,Memphis Grizzlies,99.0,2016,24.0
+339,Washington Wizards,105.0,New Orleans Pelicans,107.0,2016,-2.0
+340,Cleveland Cavaliers,111.0,Orlando Magic,76.0,2016,35.0
+341,Detroit Pistons,107.0,Philadelphia 76ers,95.0,2016,12.0
+342,Portland Trail Blazers,106.0,Phoenix Suns,96.0,2016,10.0
+343,Los Angeles Lakers,87.0,San Antonio Spurs,109.0,2016,-22.0
+344,Milwaukee Bucks,83.0,Toronto Raptors,90.0,2016,-7.0
+345,Oklahoma City Thunder,94.0,Utah Jazz,90.0,2016,4.0
+346,San Antonio Spurs,103.0,Atlanta Hawks,78.0,2016,25.0
+347,Los Angeles Clippers,105.0,Brooklyn Nets,100.0,2016,5.0
+348,New Orleans Pelicans,94.0,Chicago Bulls,98.0,2016,-4.0
+349,Boston Celtics,98.0,Charlotte Hornets,93.0,2016,5.0
+350,Washington Wizards,114.0,Dallas Mavericks,111.0,2016,3.0
+351,Indiana Pacers,96.0,Detroit Pistons,118.0,2016,-22.0
+352,Los Angeles Lakers,97.0,Houston Rockets,126.0,2016,-29.0
+353,Golden State Warriors,95.0,Milwaukee Bucks,108.0,2016,-13.0
+354,New York Knicks,112.0,Portland Trail Blazers,110.0,2016,2.0
+355,Memphis Grizzlies,97.0,Miami Heat,100.0,2016,-3.0
+356,Utah Jazz,98.0,Oklahoma City Thunder,104.0,2016,-6.0
+357,Minnesota Timberwolves,101.0,Phoenix Suns,108.0,2016,-7.0
+358,Philadelphia 76ers,76.0,Toronto Raptors,96.0,2016,-20.0
+359,Miami Heat,100.0,Atlanta Hawks,88.0,2016,12.0
+360,Orlando Magic,105.0,Brooklyn Nets,82.0,2016,23.0
+361,Philadelphia 76ers,96.0,Chicago Bulls,115.0,2016,-19.0
+362,Phoenix Suns,94.0,Dallas Mavericks,104.0,2016,-10.0
+363,Houston Rockets,108.0,Denver Nuggets,114.0,2016,-6.0
+364,Los Angeles Clippers,105.0,Detroit Pistons,103.0,2016,2.0
+365,Toronto Raptors,90.0,Indiana Pacers,106.0,2016,-16.0
+366,Washington Wizards,95.0,Memphis Grizzlies,112.0,2016,-17.0
+367,New Orleans Pelicans,101.0,Portland Trail Blazers,105.0,2016,-4.0
+368,Utah Jazz,81.0,San Antonio Spurs,118.0,2016,-37.0
+369,Cleveland Cavaliers,89.0,Boston Celtics,77.0,2016,12.0
+370,Milwaukee Bucks,95.0,Los Angeles Lakers,113.0,2016,-18.0
+371,Denver Nuggets,112.0,Minnesota Timberwolves,100.0,2016,12.0
+372,Houston Rockets,97.0,Sacramento Kings,107.0,2016,-10.0
+373,Philadelphia 76ers,106.0,Atlanta Hawks,127.0,2016,-21.0
+374,Miami Heat,104.0,Brooklyn Nets,98.0,2016,6.0
+375,Memphis Grizzlies,85.0,Chicago Bulls,98.0,2016,-13.0
+376,Boston Celtics,116.0,Detroit Pistons,119.0,2016,-3.0
+377,Phoenix Suns,103.0,Golden State Warriors,128.0,2016,-25.0
+378,Dallas Mavericks,81.0,Indiana Pacers,107.0,2016,-26.0
+379,Milwaukee Bucks,90.0,Los Angeles Clippers,103.0,2016,-13.0
+380,Minnesota Timberwolves,102.0,New York Knicks,107.0,2016,-5.0
+381,Portland Trail Blazers,90.0,Oklahoma City Thunder,106.0,2016,-16.0
+382,Charlotte Hornets,98.0,Orlando Magic,113.0,2016,-15.0
+383,Washington Wizards,95.0,San Antonio Spurs,114.0,2016,-19.0
+384,New Orleans Pelicans,104.0,Utah Jazz,94.0,2016,10.0
+385,Toronto Raptors,99.0,Charlotte Hornets,109.0,2016,-10.0
+386,Oklahoma City Thunder,100.0,Cleveland Cavaliers,104.0,2016,-4.0
+387,Houston Rockets,107.0,Los Angeles Lakers,87.0,2016,20.0
+388,Atlanta Hawks,109.0,Boston Celtics,101.0,2016,8.0
+389,Detroit Pistons,147.0,Chicago Bulls,144.0,2016,3.0
+390,Memphis Grizzlies,88.0,Dallas Mavericks,97.0,2016,-9.0
+391,Milwaukee Bucks,112.0,Golden State Warriors,121.0,2016,-9.0
+392,Brooklyn Nets,97.0,Indiana Pacers,104.0,2016,-7.0
+393,Toronto Raptors,108.0,Miami Heat,94.0,2016,14.0
+394,Sacramento Kings,95.0,Minnesota Timberwolves,99.0,2016,-4.0
+395,Portland Trail Blazers,94.0,Orlando Magic,102.0,2016,-8.0
+396,New York Knicks,107.0,Philadelphia 76ers,97.0,2016,10.0
+397,New Orleans Pelicans,88.0,Phoenix Suns,104.0,2016,-16.0
+398,Los Angeles Clippers,107.0,San Antonio Spurs,115.0,2016,-8.0
+399,Denver Nuggets,88.0,Utah Jazz,97.0,2016,-9.0
+400,Los Angeles Clippers,97.0,Houston Rockets,107.0,2016,-10.0
+401,Indiana Pacers,84.0,Memphis Grizzlies,96.0,2016,-12.0
+402,Chicago Bulls,91.0,New York Knicks,107.0,2016,-16.0
+403,Los Angeles Lakers,78.0,Oklahoma City Thunder,118.0,2016,-40.0
+404,Charlotte Hornets,101.0,Washington Wizards,109.0,2016,-8.0
+405,Minnesota Timberwolves,100.0,Brooklyn Nets,85.0,2016,15.0
+406,Philadelphia 76ers,86.0,Cleveland Cavaliers,108.0,2016,-22.0
+407,New Orleans Pelicans,130.0,Denver Nuggets,125.0,2016,5.0
+408,Portland Trail Blazers,109.0,Miami Heat,116.0,2016,-7.0
+409,Atlanta Hawks,103.0,Orlando Magic,100.0,2016,3.0
+410,Milwaukee Bucks,101.0,Phoenix Suns,95.0,2016,6.0
+411,Sacramento Kings,104.0,Toronto Raptors,94.0,2016,10.0
+412,Portland Trail Blazers,97.0,Atlanta Hawks,106.0,2016,-9.0
+413,Minnesota Timberwolves,99.0,Boston Celtics,113.0,2016,-14.0
+414,Brooklyn Nets,105.0,Chicago Bulls,102.0,2016,3.0
+415,Charlotte Hornets,95.0,Houston Rockets,102.0,2016,-7.0
+416,Oklahoma City Thunder,100.0,Los Angeles Clippers,99.0,2016,1.0
+417,Orlando Magic,107.0,New York Knicks,99.0,2016,8.0
+418,Indiana Pacers,92.0,San Antonio Spurs,106.0,2016,-14.0
+419,Phoenix Suns,89.0,Utah Jazz,110.0,2016,-21.0
+420,Sacramento Kings,99.0,Washington Wizards,113.0,2016,-14.0
+421,Los Angeles Lakers,111.0,Denver Nuggets,107.0,2016,4.0
+422,Detroit Pistons,93.0,Miami Heat,92.0,2016,1.0
+423,Memphis Grizzlies,104.0,Philadelphia 76ers,90.0,2016,14.0
+424,Dallas Mavericks,99.0,Toronto Raptors,103.0,2016,-4.0
+425,Detroit Pistons,100.0,Atlanta Hawks,107.0,2016,-7.0
+426,Dallas Mavericks,119.0,Brooklyn Nets,118.0,2016,1.0
+427,Boston Celtics,102.0,Charlotte Hornets,89.0,2016,13.0
+428,New York Knicks,84.0,Cleveland Cavaliers,91.0,2016,-7.0
+429,Utah Jazz,85.0,Golden State Warriors,103.0,2016,-18.0
+430,Sacramento Kings,108.0,Indiana Pacers,106.0,2016,2.0
+431,Oklahoma City Thunder,120.0,Los Angeles Lakers,85.0,2016,35.0
+432,Philadelphia 76ers,100.0,Milwaukee Bucks,113.0,2016,-13.0
+433,San Antonio Spurs,108.0,Minnesota Timberwolves,83.0,2016,25.0
+434,Portland Trail Blazers,89.0,New Orleans Pelicans,115.0,2016,-26.0
+435,Houston Rockets,101.0,Orlando Magic,104.0,2016,-3.0
+436,Denver Nuggets,104.0,Phoenix Suns,96.0,2016,8.0
+437,Memphis Grizzlies,91.0,Washington Wizards,100.0,2016,-9.0
+438,Cleveland Cavaliers,83.0,Golden State Warriors,89.0,2016,-6.0
+439,San Antonio Spurs,84.0,Houston Rockets,88.0,2016,-4.0
+440,Los Angeles Clippers,94.0,Los Angeles Lakers,84.0,2016,10.0
+441,New Orleans Pelicans,88.0,Miami Heat,94.0,2016,-6.0
+442,Chicago Bulls,105.0,Oklahoma City Thunder,96.0,2016,9.0
+443,New York Knicks,98.0,Atlanta Hawks,117.0,2016,-19.0
+444,Washington Wizards,111.0,Brooklyn Nets,96.0,2016,15.0
+445,Memphis Grizzlies,92.0,Charlotte Hornets,98.0,2016,-6.0
+446,Chicago Bulls,111.0,Dallas Mavericks,118.0,2016,-7.0
+447,Boston Celtics,99.0,Detroit Pistons,93.0,2016,6.0
+448,Toronto Raptors,111.0,Milwaukee Bucks,90.0,2016,21.0
+449,Indiana Pacers,102.0,Minnesota Timberwolves,88.0,2016,14.0
+450,Houston Rockets,108.0,New Orleans Pelicans,110.0,2016,-2.0
+451,Miami Heat,108.0,Orlando Magic,101.0,2016,7.0
+452,Philadelphia 76ers,111.0,Phoenix Suns,104.0,2016,7.0
+453,Cleveland Cavaliers,76.0,Portland Trail Blazers,105.0,2016,-29.0
+454,Denver Nuggets,86.0,San Antonio Spurs,101.0,2016,-15.0
+455,Los Angeles Clippers,109.0,Utah Jazz,104.0,2016,5.0
+456,New York Knicks,91.0,Boston Celtics,100.0,2016,-9.0
+457,Los Angeles Lakers,96.0,Memphis Grizzlies,112.0,2016,-16.0
+458,Denver Nuggets,112.0,Oklahoma City Thunder,122.0,2016,-10.0
+459,Portland Trail Blazers,98.0,Sacramento Kings,94.0,2016,4.0
+460,Toronto Raptors,97.0,Chicago Bulls,104.0,2016,-7.0
+461,Los Angeles Lakers,98.0,Charlotte Hornets,108.0,2016,-10.0
+462,Milwaukee Bucks,93.0,Dallas Mavericks,103.0,2016,-10.0
+463,Sacramento Kings,103.0,Golden State Warriors,122.0,2016,-19.0
+464,Atlanta Hawks,87.0,Indiana Pacers,93.0,2016,-6.0
+465,Brooklyn Nets,111.0,Miami Heat,105.0,2016,6.0
+466,New Orleans Pelicans,89.0,Orlando Magic,104.0,2016,-15.0
+467,Cleveland Cavaliers,101.0,Phoenix Suns,97.0,2016,4.0
+468,Minnesota Timberwolves,95.0,San Antonio Spurs,101.0,2016,-6.0
+469,Philadelphia 76ers,91.0,Utah Jazz,95.0,2016,-4.0
+470,Los Angeles Clippers,108.0,Washington Wizards,91.0,2016,17.0
+471,Cleveland Cavaliers,93.0,Denver Nuggets,87.0,2016,6.0
+472,Atlanta Hawks,121.0,Houston Rockets,115.0,2016,6.0
+473,Miami Heat,90.0,Memphis Grizzlies,99.0,2016,-9.0
+474,Detroit Pistons,96.0,New York Knicks,108.0,2016,-12.0
+475,Milwaukee Bucks,123.0,Oklahoma City Thunder,131.0,2016,-8.0
+476,Los Angeles Lakers,112.0,Boston Celtics,104.0,2016,8.0
+477,Indiana Pacers,100.0,Chicago Bulls,102.0,2016,-2.0
+478,Los Angeles Clippers,122.0,Charlotte Hornets,117.0,2016,5.0
+479,Golden State Warriors,91.0,Dallas Mavericks,114.0,2016,-23.0
+480,Utah Jazz,80.0,Minnesota Timberwolves,94.0,2016,-14.0
+481,Brooklyn Nets,93.0,Orlando Magic,100.0,2016,-7.0
+482,Denver Nuggets,103.0,Portland Trail Blazers,110.0,2016,-7.0
+483,Philadelphia 76ers,110.0,Sacramento Kings,105.0,2016,5.0
+484,Phoenix Suns,79.0,San Antonio Spurs,112.0,2016,-33.0
+485,Washington Wizards,91.0,Toronto Raptors,94.0,2016,-3.0
+486,Minnesota Timberwolves,90.0,Detroit Pistons,115.0,2016,-25.0
+487,Golden State Warriors,114.0,Houston Rockets,110.0,2016,4.0
+488,Milwaukee Bucks,120.0,Indiana Pacers,116.0,2016,4.0
+489,Los Angeles Clippers,95.0,New Orleans Pelicans,89.0,2016,6.0
+490,Phoenix Suns,106.0,Oklahoma City Thunder,110.0,2016,-4.0
+491,Portland Trail Blazers,96.0,Utah Jazz,109.0,2016,-13.0
+493,New York Knicks,81.0,Chicago Bulls,108.0,2016,-27.0
+494,Philadelphia 76ers,84.0,Los Angeles Lakers,93.0,2016,-9.0
+495,Dallas Mavericks,82.0,Miami Heat,106.0,2016,-24.0
+496,Charlotte Hornets,94.0,Toronto Raptors,104.0,2016,-10.0
+497,Orlando Magic,91.0,Washington Wizards,103.0,2016,-12.0
+498,Brooklyn Nets,100.0,Boston Celtics,97.0,2016,3.0
+499,Oklahoma City Thunder,109.0,Charlotte Hornets,90.0,2016,19.0
+500,Orlando Magic,79.0,Cleveland Cavaliers,104.0,2016,-25.0
+501,New Orleans Pelicans,105.0,Dallas Mavericks,98.0,2016,7.0
+502,Denver Nuggets,108.0,Golden State Warriors,111.0,2016,-3.0
+503,Detroit Pistons,82.0,Indiana Pacers,94.0,2016,-12.0
+504,Philadelphia 76ers,99.0,Los Angeles Clippers,130.0,2016,-31.0
+505,Milwaukee Bucks,95.0,Minnesota Timberwolves,85.0,2016,10.0
+506,Phoenix Suns,119.0,Sacramento Kings,142.0,2016,-23.0
+507,Houston Rockets,103.0,San Antonio Spurs,121.0,2016,-18.0
+508,Memphis Grizzlies,87.0,Utah Jazz,92.0,2016,-5.0
+509,Portland Trail Blazers,112.0,Denver Nuggets,106.0,2016,6.0
+510,Phoenix Suns,77.0,Los Angeles Lakers,97.0,2016,-20.0
+511,Atlanta Hawks,97.0,New York Knicks,111.0,2016,-14.0
+512,Chicago Bulls,115.0,Toronto Raptors,113.0,2016,2.0
+513,Miami Heat,97.0,Washington Wizards,75.0,2016,22.0
+514,Boston Celtics,103.0,Brooklyn Nets,94.0,2016,9.0
+515,Toronto Raptors,100.0,Cleveland Cavaliers,122.0,2016,-22.0
+516,Orlando Magic,89.0,Detroit Pistons,115.0,2016,-26.0
+517,Charlotte Hornets,101.0,Golden State Warriors,111.0,2016,-10.0
+518,Indiana Pacers,100.0,Miami Heat,103.0,2016,-3.0
+519,San Antonio Spurs,123.0,Milwaukee Bucks,98.0,2016,25.0
+520,Sacramento Kings,116.0,Oklahoma City Thunder,104.0,2016,12.0
+521,Minnesota Timberwolves,99.0,Philadelphia 76ers,109.0,2016,-10.0
+522,Memphis Grizzlies,91.0,Portland Trail Blazers,78.0,2016,13.0
+523,Houston Rockets,93.0,Utah Jazz,91.0,2016,2.0
+524,New York Knicks,107.0,Atlanta Hawks,101.0,2016,6.0
+525,Milwaukee Bucks,106.0,Chicago Bulls,117.0,2016,-11.0
+526,Sacramento Kings,116.0,Dallas Mavericks,117.0,2016,-1.0
+527,Golden State Warriors,109.0,Los Angeles Lakers,88.0,2016,21.0
+528,Detroit Pistons,99.0,Boston Celtics,94.0,2016,5.0
+529,Toronto Raptors,91.0,Brooklyn Nets,74.0,2016,17.0
+530,New York Knicks,98.0,Miami Heat,90.0,2016,8.0
+531,Denver Nuggets,78.0,Minnesota Timberwolves,74.0,2016,4.0
+532,Dallas Mavericks,100.0,New Orleans Pelicans,91.0,2016,9.0
+533,Memphis Grizzlies,94.0,Oklahoma City Thunder,112.0,2016,-18.0
+534,Indiana Pacers,95.0,Orlando Magic,86.0,2016,9.0
+535,Charlotte Hornets,102.0,Phoenix Suns,111.0,2016,-9.0
+536,Los Angeles Clippers,109.0,Portland Trail Blazers,98.0,2016,11.0
+537,Utah Jazz,98.0,San Antonio Spurs,123.0,2016,-25.0
+538,Cleveland Cavaliers,121.0,Washington Wizards,115.0,2016,6.0
+539,Boston Celtics,92.0,Chicago Bulls,101.0,2016,-9.0
+540,Utah Jazz,94.0,Houston Rockets,103.0,2016,-9.0
+541,Atlanta Hawks,126.0,Philadelphia 76ers,98.0,2016,28.0
+542,Los Angeles Lakers,115.0,Sacramento Kings,118.0,2016,-3.0
+543,Orlando Magic,83.0,Brooklyn Nets,77.0,2016,6.0
+544,Oklahoma City Thunder,117.0,Los Angeles Lakers,113.0,2016,4.0
+545,Denver Nuggets,84.0,Memphis Grizzlies,91.0,2016,-7.0
+546,Dallas Mavericks,95.0,Milwaukee Bucks,96.0,2016,-1.0
+547,Cleveland Cavaliers,125.0,Minnesota Timberwolves,99.0,2016,26.0
+548,Indiana Pacers,91.0,New Orleans Pelicans,86.0,2016,5.0
+549,Miami Heat,103.0,Phoenix Suns,95.0,2016,8.0
+550,Golden State Warriors,128.0,Portland Trail Blazers,108.0,2016,20.0
+551,New York Knicks,99.0,San Antonio Spurs,100.0,2016,-1.0
+552,Toronto Raptors,97.0,Washington Wizards,88.0,2016,9.0
+553,Chicago Bulls,105.0,Atlanta Hawks,120.0,2016,-15.0
+554,Brooklyn Nets,89.0,Detroit Pistons,103.0,2016,-14.0
+555,Charlotte Hornets,83.0,Los Angeles Clippers,97.0,2016,-14.0
+556,Washington Wizards,105.0,Orlando Magic,99.0,2016,6.0
+557,Toronto Raptors,108.0,Philadelphia 76ers,95.0,2016,13.0
+558,Golden State Warriors,128.0,Sacramento Kings,116.0,2016,12.0
+559,Miami Heat,83.0,Utah Jazz,98.0,2016,-15.0
+560,Charlotte Hornets,92.0,Denver Nuggets,95.0,2016,-3.0
+561,Indiana Pacers,103.0,Houston Rockets,107.0,2016,-4.0
+562,New Orleans Pelicans,111.0,Los Angeles Clippers,114.0,2016,-3.0
+563,Utah Jazz,86.0,Los Angeles Lakers,74.0,2016,12.0
+564,Boston Celtics,98.0,Memphis Grizzlies,101.0,2016,-3.0
+565,Dallas Mavericks,93.0,Minnesota Timberwolves,87.0,2016,6.0
+566,Milwaukee Bucks,88.0,New York Knicks,100.0,2016,-12.0
+567,Cleveland Cavaliers,95.0,Philadelphia 76ers,85.0,2016,10.0
+568,Oklahoma City Thunder,110.0,Portland Trail Blazers,115.0,2016,-5.0
+569,San Antonio Spurs,106.0,Brooklyn Nets,79.0,2016,27.0
+570,Washington Wizards,114.0,Chicago Bulls,100.0,2016,14.0
+571,Miami Heat,103.0,Golden State Warriors,111.0,2016,-8.0
+572,Cleveland Cavaliers,110.0,Dallas Mavericks,107.0,2016,3.0
+573,San Antonio Spurs,109.0,Detroit Pistons,99.0,2016,10.0
+574,Phoenix Suns,97.0,Indiana Pacers,116.0,2016,-19.0
+575,New Orleans Pelicans,91.0,Los Angeles Lakers,95.0,2016,-4.0
+576,Houston Rockets,107.0,Memphis Grizzlies,91.0,2016,16.0
+577,Chicago Bulls,101.0,Milwaukee Bucks,106.0,2016,-5.0
+578,Oklahoma City Thunder,101.0,Minnesota Timberwolves,96.0,2016,5.0
+579,Boston Celtics,114.0,New York Knicks,120.0,2016,-6.0
+580,Indiana Pacers,94.0,Boston Celtics,103.0,2016,-9.0
+581,New York Knicks,104.0,Brooklyn Nets,110.0,2016,-6.0
+582,Atlanta Hawks,84.0,Charlotte Hornets,107.0,2016,-23.0
+583,Golden State Warriors,110.0,Denver Nuggets,112.0,2016,-2.0
+584,Minnesota Timberwolves,104.0,Houston Rockets,107.0,2016,-3.0
+585,Miami Heat,90.0,Los Angeles Clippers,104.0,2016,-14.0
+586,Dallas Mavericks,89.0,Oklahoma City Thunder,108.0,2016,-19.0
+587,Utah Jazz,85.0,Portland Trail Blazers,99.0,2016,-14.0
+588,New Orleans Pelicans,109.0,Sacramento Kings,97.0,2016,12.0
+589,Milwaukee Bucks,101.0,Washington Wizards,106.0,2016,-5.0
+590,Los Angeles Lakers,98.0,Golden State Warriors,116.0,2016,-18.0
+591,Detroit Pistons,101.0,Memphis Grizzlies,103.0,2016,-2.0
+592,Toronto Raptors,106.0,Orlando Magic,103.0,2016,3.0
+593,Chicago Bulls,115.0,Philadelphia 76ers,111.0,2016,4.0
+594,Cleveland Cavaliers,95.0,San Antonio Spurs,99.0,2016,-4.0
+595,Sacramento Kings,103.0,Utah Jazz,101.0,2016,2.0
+596,Phoenix Suns,103.0,Boston Celtics,117.0,2016,-14.0
+597,Portland Trail Blazers,116.0,Brooklyn Nets,104.0,2016,12.0
+598,Dallas Mavericks,83.0,Chicago Bulls,77.0,2016,6.0
+599,Miami Heat,98.0,Denver Nuggets,95.0,2016,3.0
+600,Cleveland Cavaliers,91.0,Houston Rockets,77.0,2016,14.0
+601,Washington Wizards,118.0,Indiana Pacers,104.0,2016,14.0
+602,Atlanta Hawks,101.0,Milwaukee Bucks,108.0,2016,-7.0
+603,Charlotte Hornets,107.0,New Orleans Pelicans,109.0,2016,-2.0
+604,Minnesota Timberwolves,93.0,Oklahoma City Thunder,113.0,2016,-20.0
+605,Brooklyn Nets,86.0,Atlanta Hawks,114.0,2016,-28.0
+606,Milwaukee Bucks,105.0,Charlotte Hornets,92.0,2016,13.0
+607,Golden State Warriors,95.0,Detroit Pistons,113.0,2016,-18.0
+608,Sacramento Kings,110.0,Los Angeles Clippers,103.0,2016,7.0
+609,New York Knicks,95.0,Memphis Grizzlies,103.0,2016,-8.0
+610,Portland Trail Blazers,89.0,Philadelphia 76ers,114.0,2016,-25.0
+611,Los Angeles Lakers,82.0,Utah Jazz,109.0,2016,-27.0
+612,Boston Celtics,119.0,Washington Wizards,117.0,2016,2.0
+613,Indiana Pacers,126.0,Denver Nuggets,129.0,2016,-3.0
+614,Houston Rockets,112.0,Los Angeles Lakers,95.0,2016,17.0
+615,Phoenix Suns,87.0,Minnesota Timberwolves,117.0,2016,-30.0
+616,Miami Heat,74.0,Oklahoma City Thunder,99.0,2016,-25.0
+617,Dallas Mavericks,83.0,San Antonio Spurs,112.0,2016,-29.0
+618,Orlando Magic,81.0,Atlanta Hawks,98.0,2016,-17.0
+619,Utah Jazz,119.0,Charlotte Hornets,124.0,2016,-5.0
+620,Golden State Warriors,132.0,Cleveland Cavaliers,98.0,2016,34.0
+621,Boston Celtics,113.0,Dallas Mavericks,118.0,2016,-5.0
+622,Chicago Bulls,111.0,Detroit Pistons,101.0,2016,10.0
+623,Houston Rockets,132.0,Los Angeles Clippers,140.0,2016,-8.0
+624,New Orleans Pelicans,99.0,Memphis Grizzlies,101.0,2016,-2.0
+625,Philadelphia 76ers,113.0,New York Knicks,119.0,2016,-6.0
+626,Brooklyn Nets,100.0,Toronto Raptors,112.0,2016,-12.0
+627,Portland Trail Blazers,108.0,Washington Wizards,98.0,2016,10.0
+628,Oklahoma City Thunder,110.0,Denver Nuggets,104.0,2016,6.0
+629,Milwaukee Bucks,91.0,Miami Heat,79.0,2016,12.0
+630,Minnesota Timberwolves,99.0,New Orleans Pelicans,114.0,2016,-15.0
+631,Indiana Pacers,97.0,Phoenix Suns,94.0,2016,3.0
+632,Cleveland Cavaliers,91.0,Brooklyn Nets,78.0,2016,13.0
+633,Golden State Warriors,125.0,Chicago Bulls,94.0,2016,31.0
+634,Minnesota Timberwolves,94.0,Dallas Mavericks,106.0,2016,-12.0
+635,Detroit Pistons,123.0,Houston Rockets,114.0,2016,9.0
+636,Sacramento Kings,112.0,Los Angeles Lakers,93.0,2016,19.0
+637,Utah Jazz,111.0,New York Knicks,118.0,2016,-7.0
+638,Charlotte Hornets,95.0,Oklahoma City Thunder,109.0,2016,-14.0
+639,Philadelphia 76ers,96.0,Orlando Magic,87.0,2016,9.0
+640,Atlanta Hawks,104.0,Portland Trail Blazers,98.0,2016,6.0
+641,Boston Celtics,109.0,Toronto Raptors,115.0,2016,-6.0
+642,Miami Heat,87.0,Washington Wizards,106.0,2016,-19.0
+643,Los Angeles Clippers,102.0,Cleveland Cavaliers,115.0,2016,-13.0
+644,Memphis Grizzlies,102.0,Denver Nuggets,101.0,2016,1.0
+645,Detroit Pistons,99.0,New Orleans Pelicans,115.0,2016,-16.0
+646,San Antonio Spurs,117.0,Phoenix Suns,89.0,2016,28.0
+647,Atlanta Hawks,88.0,Sacramento Kings,91.0,2016,-3.0
+648,Chicago Bulls,101.0,Boston Celtics,110.0,2016,-9.0
+649,Utah Jazz,108.0,Brooklyn Nets,86.0,2016,22.0
+650,Oklahoma City Thunder,109.0,Dallas Mavericks,106.0,2016,3.0
+651,Indiana Pacers,110.0,Golden State Warriors,122.0,2016,-12.0
+652,Milwaukee Bucks,98.0,Houston Rockets,102.0,2016,-4.0
+653,San Antonio Spurs,108.0,Los Angeles Lakers,95.0,2016,13.0
+654,Los Angeles Clippers,116.0,New York Knicks,88.0,2016,28.0
+655,Charlotte Hornets,120.0,Orlando Magic,116.0,2016,4.0
+656,Miami Heat,81.0,Toronto Raptors,101.0,2016,-20.0
+657,New York Knicks,84.0,Charlotte Hornets,97.0,2016,-13.0
+658,Chicago Bulls,96.0,Cleveland Cavaliers,83.0,2016,13.0
+659,Detroit Pistons,101.0,Denver Nuggets,104.0,2016,-3.0
+660,Memphis Grizzlies,101.0,Minnesota Timberwolves,106.0,2016,-5.0
+661,Milwaukee Bucks,99.0,New Orleans Pelicans,116.0,2016,-17.0
+662,Atlanta Hawks,95.0,Phoenix Suns,98.0,2016,-3.0
+663,Los Angeles Lakers,103.0,Portland Trail Blazers,121.0,2016,-18.0
+664,Indiana Pacers,97.0,Sacramento Kings,108.0,2016,-11.0
+665,Oklahoma City Thunder,106.0,Brooklyn Nets,116.0,2016,-10.0
+666,Dallas Mavericks,104.0,Houston Rockets,115.0,2016,-11.0
+667,Boston Celtics,112.0,Philadelphia 76ers,92.0,2016,20.0
+668,Los Angeles Clippers,94.0,Toronto Raptors,112.0,2016,-18.0
+669,Miami Heat,89.0,Chicago Bulls,84.0,2016,5.0
+670,Minnesota Timberwolves,107.0,Cleveland Cavaliers,114.0,2016,-7.0
+671,Atlanta Hawks,119.0,Denver Nuggets,105.0,2016,14.0
+672,San Antonio Spurs,90.0,Golden State Warriors,120.0,2016,-30.0
+673,Orlando Magic,102.0,Memphis Grizzlies,108.0,2016,-6.0
+674,Houston Rockets,112.0,New Orleans Pelicans,111.0,2016,1.0
+675,Charlotte Hornets,129.0,Sacramento Kings,128.0,2016,1.0
+676,Detroit Pistons,95.0,Utah Jazz,92.0,2016,3.0
+677,Boston Celtics,116.0,Washington Wizards,91.0,2016,25.0
+678,Miami Heat,102.0,Brooklyn Nets,98.0,2016,4.0
+679,Los Angeles Clippers,91.0,Indiana Pacers,89.0,2016,2.0
+680,Dallas Mavericks,92.0,Los Angeles Lakers,90.0,2016,2.0
+681,Orlando Magic,100.0,Milwaukee Bucks,107.0,2016,-7.0
+682,Oklahoma City Thunder,128.0,New York Knicks,122.0,2016,6.0
+683,Phoenix Suns,103.0,Philadelphia 76ers,113.0,2016,-10.0
+684,Sacramento Kings,97.0,Portland Trail Blazers,112.0,2016,-15.0
+685,Washington Wizards,89.0,Toronto Raptors,106.0,2016,-17.0
+686,Los Angeles Clippers,85.0,Atlanta Hawks,83.0,2016,2.0
+687,Denver Nuggets,103.0,Boston Celtics,111.0,2016,-8.0
+688,Phoenix Suns,93.0,Cleveland Cavaliers,115.0,2016,-22.0
+689,Philadelphia 76ers,97.0,Detroit Pistons,110.0,2016,-13.0
+690,Dallas Mavericks,107.0,Golden State Warriors,127.0,2016,-20.0
+691,Oklahoma City Thunder,126.0,Minnesota Timberwolves,123.0,2016,3.0
+692,Houston Rockets,99.0,San Antonio Spurs,130.0,2016,-31.0
+693,Charlotte Hornets,73.0,Utah Jazz,102.0,2016,-29.0
+694,Atlanta Hawks,92.0,Indiana Pacers,111.0,2016,-19.0
+695,Chicago Bulls,114.0,Los Angeles Lakers,91.0,2016,23.0
+696,Milwaukee Bucks,83.0,Memphis Grizzlies,103.0,2016,-20.0
+697,Sacramento Kings,105.0,New Orleans Pelicans,114.0,2016,-9.0
+698,New York Knicks,93.0,Toronto Raptors,103.0,2016,-10.0
+699,Denver Nuggets,117.0,Washington Wizards,113.0,2016,4.0
+700,Orlando Magic,94.0,Boston Celtics,113.0,2016,-19.0
+701,Brooklyn Nets,79.0,Dallas Mavericks,91.0,2016,-12.0
+702,Cleveland Cavaliers,114.0,Detroit Pistons,106.0,2016,8.0
+703,Los Angeles Lakers,93.0,Los Angeles Clippers,105.0,2016,-12.0
+704,Miami Heat,107.0,Milwaukee Bucks,103.0,2016,4.0
+705,Phoenix Suns,84.0,New York Knicks,102.0,2016,-18.0
+706,Houston Rockets,108.0,Oklahoma City Thunder,116.0,2016,-8.0
+707,Charlotte Hornets,91.0,Portland Trail Blazers,109.0,2016,-18.0
+708,Minnesota Timberwolves,90.0,Utah Jazz,103.0,2016,-13.0
+709,San Antonio Spurs,103.0,Cleveland Cavaliers,117.0,2016,-14.0
+710,Washington Wizards,123.0,Houston Rockets,122.0,2016,1.0
+711,Denver Nuggets,105.0,Indiana Pacers,109.0,2016,-4.0
+712,Sacramento Kings,117.0,Memphis Grizzlies,121.0,2016,-4.0
+713,Brooklyn Nets,103.0,New Orleans Pelicans,105.0,2016,-2.0
+714,Golden State Warriors,108.0,Philadelphia 76ers,105.0,2016,3.0
+715,Detroit Pistons,107.0,Toronto Raptors,111.0,2016,-4.0
+716,Phoenix Suns,78.0,Dallas Mavericks,91.0,2016,-13.0
+717,Chicago Bulls,93.0,Los Angeles Clippers,120.0,2016,-27.0
+718,Charlotte Hornets,101.0,Los Angeles Lakers,82.0,2016,19.0
+719,Atlanta Hawks,87.0,Miami Heat,105.0,2016,-18.0
+720,Golden State Warriors,116.0,New York Knicks,95.0,2016,21.0
+721,Boston Celtics,114.0,Orlando Magic,119.0,2016,-5.0
+722,Minnesota Timberwolves,93.0,Portland Trail Blazers,96.0,2016,-3.0
+724,Dallas Mavericks,97.0,Atlanta Hawks,112.0,2016,-15.0
+725,Detroit Pistons,105.0,Brooklyn Nets,100.0,2016,5.0
+726,Toronto Raptors,93.0,Denver Nuggets,112.0,2016,-19.0
+727,Cleveland Cavaliers,111.0,Indiana Pacers,106.0,2016,5.0
+728,Memphis Grizzlies,110.0,New Orleans Pelicans,95.0,2016,15.0
+729,Washington Wizards,98.0,Oklahoma City Thunder,114.0,2016,-16.0
+730,Milwaukee Bucks,104.0,Sacramento Kings,111.0,2016,-7.0
+731,Orlando Magic,92.0,San Antonio Spurs,107.0,2016,-15.0
+732,Chicago Bulls,96.0,Utah Jazz,105.0,2016,-9.0
+733,Miami Heat,102.0,Houston Rockets,115.0,2016,-13.0
+734,Minnesota Timberwolves,115.0,Los Angeles Lakers,119.0,2016,-4.0
+735,Boston Celtics,97.0,New York Knicks,89.0,2016,8.0
+736,Toronto Raptors,104.0,Phoenix Suns,97.0,2016,7.0
+737,Milwaukee Bucks,95.0,Portland Trail Blazers,107.0,2016,-12.0
+738,Detroit Pistons,95.0,Boston Celtics,102.0,2016,-7.0
+739,Indiana Pacers,114.0,Brooklyn Nets,100.0,2016,14.0
+740,Cleveland Cavaliers,97.0,Charlotte Hornets,106.0,2016,-9.0
+741,Miami Heat,93.0,Dallas Mavericks,90.0,2016,3.0
+742,Minnesota Timberwolves,108.0,Los Angeles Clippers,102.0,2016,6.0
+743,Orlando Magic,114.0,Oklahoma City Thunder,117.0,2016,-3.0
+744,Atlanta Hawks,124.0,Philadelphia 76ers,86.0,2016,38.0
+745,Chicago Bulls,107.0,Sacramento Kings,102.0,2016,5.0
+746,New Orleans Pelicans,97.0,San Antonio Spurs,110.0,2016,-13.0
+747,Denver Nuggets,81.0,Utah Jazz,85.0,2016,-4.0
+748,Golden State Warriors,134.0,Washington Wizards,121.0,2016,13.0
+749,New York Knicks,105.0,Detroit Pistons,111.0,2016,-6.0
+750,Los Angeles Lakers,99.0,New Orleans Pelicans,96.0,2016,3.0
+751,Houston Rockets,111.0,Phoenix Suns,105.0,2016,6.0
+752,Toronto Raptors,110.0,Portland Trail Blazers,103.0,2016,7.0
+753,Indiana Pacers,96.0,Atlanta Hawks,102.0,2016,-6.0
+754,Sacramento Kings,119.0,Brooklyn Nets,128.0,2016,-9.0
+755,Miami Heat,98.0,Charlotte Hornets,95.0,2016,3.0
+756,Boston Celtics,104.0,Cleveland Cavaliers,103.0,2016,1.0
+757,San Antonio Spurs,116.0,Dallas Mavericks,90.0,2016,26.0
+758,Chicago Bulls,110.0,Denver Nuggets,115.0,2016,-5.0
+759,Memphis Grizzlies,91.0,New York Knicks,85.0,2016,6.0
+760,Los Angeles Clippers,107.0,Orlando Magic,93.0,2016,14.0
+761,Milwaukee Bucks,81.0,Utah Jazz,84.0,2016,-3.0
+762,Philadelphia 76ers,94.0,Washington Wizards,106.0,2016,-12.0
+763,Washington Wizards,104.0,Charlotte Hornets,108.0,2016,-4.0
+764,New Orleans Pelicans,84.0,Cleveland Cavaliers,99.0,2016,-15.0
+765,Oklahoma City Thunder,108.0,Golden State Warriors,116.0,2016,-8.0
+766,Portland Trail Blazers,96.0,Houston Rockets,79.0,2016,17.0
+767,Detroit Pistons,104.0,Indiana Pacers,112.0,2016,-8.0
+768,Dallas Mavericks,114.0,Memphis Grizzlies,110.0,2016,4.0
+769,Chicago Bulls,105.0,Minnesota Timberwolves,112.0,2016,-7.0
+770,Brooklyn Nets,98.0,Philadelphia 76ers,103.0,2016,-5.0
+771,Utah Jazz,98.0,Phoenix Suns,89.0,2016,9.0
+772,Los Angeles Lakers,102.0,San Antonio Spurs,106.0,2016,-4.0
+773,Sacramento Kings,119.0,Boston Celtics,128.0,2016,-9.0
+774,Los Angeles Clippers,100.0,Miami Heat,93.0,2016,7.0
+775,Denver Nuggets,101.0,New York Knicks,96.0,2016,5.0
+776,Atlanta Hawks,94.0,Orlando Magic,96.0,2016,-2.0
+777,Orlando Magic,117.0,Atlanta Hawks,110.0,2016,7.0
+778,Denver Nuggets,104.0,Brooklyn Nets,105.0,2016,-1.0
+779,Chicago Bulls,91.0,Charlotte Hornets,108.0,2016,-17.0
+780,Sacramento Kings,100.0,Cleveland Cavaliers,120.0,2016,-20.0
+781,Toronto Raptors,103.0,Detroit Pistons,89.0,2016,14.0
+782,Los Angeles Lakers,87.0,Indiana Pacers,89.0,2016,-2.0
+783,Portland Trail Blazers,112.0,Memphis Grizzlies,106.0,2016,6.0
+784,New Orleans Pelicans,116.0,Minnesota Timberwolves,102.0,2016,14.0
+785,Los Angeles Clippers,98.0,Philadelphia 76ers,92.0,2016,6.0
+786,Oklahoma City Thunder,122.0,Phoenix Suns,106.0,2016,16.0
+787,Utah Jazz,121.0,Dallas Mavericks,119.0,2016,2.0
+788,Houston Rockets,110.0,Golden State Warriors,123.0,2016,-13.0
+789,San Antonio Spurs,119.0,Miami Heat,101.0,2016,18.0
+790,Boston Celtics,111.0,Milwaukee Bucks,112.0,2016,-1.0
+791,Washington Wizards,111.0,New York Knicks,108.0,2016,3.0
+792,Los Angeles Clippers,134.0,Boston Celtics,139.0,2016,-5.0
+793,Memphis Grizzlies,109.0,Brooklyn Nets,90.0,2016,19.0
+794,Atlanta Hawks,113.0,Chicago Bulls,90.0,2016,23.0
+795,Los Angeles Lakers,111.0,Cleveland Cavaliers,120.0,2016,-9.0
+796,Denver Nuggets,103.0,Detroit Pistons,92.0,2016,11.0
+797,Charlotte Hornets,117.0,Indiana Pacers,95.0,2016,22.0
+798,Toronto Raptors,112.0,Minnesota Timberwolves,117.0,2016,-5.0
+799,Utah Jazz,96.0,New Orleans Pelicans,100.0,2016,-4.0
+800,San Antonio Spurs,98.0,Orlando Magic,96.0,2016,2.0
+801,Sacramento Kings,114.0,Philadelphia 76ers,110.0,2016,4.0
+802,Golden State Warriors,112.0,Phoenix Suns,104.0,2016,8.0
+803,Houston Rockets,103.0,Portland Trail Blazers,116.0,2016,-13.0
+804,Washington Wizards,92.0,Milwaukee Bucks,99.0,2016,-7.0
+805,New Orleans Pelicans,95.0,Oklahoma City Thunder,121.0,2016,-26.0
+806,Chicago Bulls,95.0,Cleveland Cavaliers,106.0,2016,-11.0
+807,San Antonio Spurs,86.0,Los Angeles Clippers,105.0,2016,-19.0
+808,Utah Jazz,89.0,Washington Wizards,103.0,2016,-14.0
+809,Miami Heat,115.0,Atlanta Hawks,111.0,2016,4.0
+810,New York Knicks,98.0,Brooklyn Nets,109.0,2016,-11.0
+811,Toronto Raptors,106.0,Chicago Bulls,116.0,2016,-10.0
+812,San Antonio Spurs,119.0,Los Angeles Lakers,113.0,2016,6.0
+813,Minnesota Timberwolves,104.0,Memphis Grizzlies,109.0,2016,-5.0
+814,Charlotte Hornets,98.0,Milwaukee Bucks,95.0,2016,3.0
+815,Philadelphia 76ers,114.0,New Orleans Pelicans,121.0,2016,-7.0
+816,Indiana Pacers,101.0,Oklahoma City Thunder,98.0,2016,3.0
+817,Dallas Mavericks,104.0,Orlando Magic,110.0,2016,-6.0
+818,Houston Rockets,116.0,Phoenix Suns,100.0,2016,16.0
+819,Golden State Warriors,105.0,Portland Trail Blazers,137.0,2016,-32.0
+820,Denver Nuggets,110.0,Sacramento Kings,116.0,2016,-6.0
+821,Boston Celtics,93.0,Utah Jazz,111.0,2016,-18.0
+822,Detroit Pistons,86.0,Washington Wizards,98.0,2016,-12.0
+823,Milwaukee Bucks,117.0,Atlanta Hawks,109.0,2016,8.0
+824,Golden State Warriors,115.0,Los Angeles Clippers,112.0,2016,3.0
+825,Washington Wizards,94.0,Miami Heat,114.0,2016,-20.0
+826,New York Knicks,103.0,Minnesota Timberwolves,95.0,2016,8.0
+827,Charlotte Hornets,104.0,Brooklyn Nets,96.0,2016,8.0
+828,Los Angeles Lakers,115.0,Chicago Bulls,126.0,2016,-11.0
+829,Philadelphia 76ers,103.0,Dallas Mavericks,129.0,2016,-26.0
+830,Boston Celtics,121.0,Denver Nuggets,101.0,2016,20.0
+831,New Orleans Pelicans,111.0,Detroit Pistons,106.0,2016,5.0
+832,Cleveland Cavaliers,115.0,Oklahoma City Thunder,92.0,2016,23.0
+833,Indiana Pacers,105.0,Orlando Magic,102.0,2016,3.0
+834,San Antonio Spurs,118.0,Phoenix Suns,111.0,2016,7.0
+835,Utah Jazz,111.0,Portland Trail Blazers,115.0,2016,-4.0
+836,Memphis Grizzlies,85.0,Toronto Raptors,98.0,2016,-13.0
+837,Golden State Warriors,102.0,Atlanta Hawks,92.0,2016,10.0
+838,Detroit Pistons,96.0,Cleveland Cavaliers,88.0,2016,8.0
+839,Phoenix Suns,84.0,Los Angeles Clippers,124.0,2016,-40.0
+840,Indiana Pacers,93.0,Miami Heat,101.0,2016,-8.0
+841,Los Angeles Lakers,101.0,Milwaukee Bucks,108.0,2016,-7.0
+842,Boston Celtics,122.0,Minnesota Timberwolves,124.0,2016,-2.0
+843,Toronto Raptors,122.0,New York Knicks,95.0,2016,27.0
+844,Sacramento Kings,114.0,Denver Nuggets,110.0,2016,4.0
+845,Orlando Magic,124.0,Philadelphia 76ers,115.0,2016,9.0
+846,Brooklyn Nets,104.0,Portland Trail Blazers,112.0,2016,-8.0
+847,Houston Rockets,114.0,Utah Jazz,117.0,2016,-3.0
+848,New Orleans Pelicans,89.0,Washington Wizards,109.0,2016,-20.0
+849,Washington Wizards,104.0,Chicago Bulls,109.0,2016,-5.0
+850,Charlotte Hornets,103.0,Cleveland Cavaliers,114.0,2016,-11.0
+851,Oklahoma City Thunder,116.0,Dallas Mavericks,103.0,2016,13.0
+852,Philadelphia 76ers,91.0,Detroit Pistons,111.0,2016,-20.0
+853,New York Knicks,105.0,Indiana Pacers,108.0,2016,-3.0
+854,Denver Nuggets,87.0,Los Angeles Clippers,81.0,2016,6.0
+855,Los Angeles Lakers,119.0,Memphis Grizzlies,128.0,2016,-9.0
+856,Golden State Warriors,118.0,Miami Heat,112.0,2016,6.0
+857,San Antonio Spurs,108.0,Sacramento Kings,92.0,2016,16.0
+858,Minnesota Timberwolves,105.0,Toronto Raptors,114.0,2016,-9.0
+859,Milwaukee Bucks,107.0,Boston Celtics,112.0,2016,-5.0
+860,Oklahoma City Thunder,119.0,New Orleans Pelicans,123.0,2016,-4.0
+861,Golden State Warriors,130.0,Orlando Magic,114.0,2016,16.0
+862,Brooklyn Nets,116.0,Phoenix Suns,106.0,2016,10.0
+863,Houston Rockets,119.0,Portland Trail Blazers,105.0,2016,14.0
+864,San Antonio Spurs,96.0,Utah Jazz,78.0,2016,18.0
+865,Chicago Bulls,88.0,Atlanta Hawks,103.0,2016,-15.0
+866,Denver Nuggets,116.0,Dallas Mavericks,122.0,2016,-6.0
+867,Charlotte Hornets,96.0,Indiana Pacers,95.0,2016,1.0
+868,Memphis Grizzlies,112.0,Los Angeles Lakers,95.0,2016,17.0
+869,Orlando Magic,95.0,New York Knicks,108.0,2016,-13.0
+870,Washington Wizards,103.0,Philadelphia 76ers,94.0,2016,9.0
+871,Los Angeles Clippers,117.0,Sacramento Kings,107.0,2016,10.0
+872,Cleveland Cavaliers,97.0,Toronto Raptors,99.0,2016,-2.0
+873,Miami Heat,89.0,Boston Celtics,101.0,2016,-12.0
+874,Portland Trail Blazers,103.0,Chicago Bulls,95.0,2016,8.0
+875,San Antonio Spurs,104.0,Houston Rockets,94.0,2016,10.0
+876,Detroit Pistons,102.0,Milwaukee Bucks,91.0,2016,11.0
+877,Minnesota Timberwolves,112.0,New Orleans Pelicans,110.0,2016,2.0
+878,Golden State Warriors,121.0,Oklahoma City Thunder,118.0,2016,3.0
+879,Memphis Grizzlies,106.0,Phoenix Suns,111.0,2016,-5.0
+880,Brooklyn Nets,98.0,Utah Jazz,96.0,2016,2.0
+881,Charlotte Hornets,76.0,Atlanta Hawks,87.0,2016,-11.0
+882,Minnesota Timberwolves,101.0,Dallas Mavericks,128.0,2016,-27.0
+883,Toronto Raptors,101.0,Detroit Pistons,114.0,2016,-13.0
+884,Portland Trail Blazers,111.0,Indiana Pacers,102.0,2016,9.0
+885,Miami Heat,98.0,New York Knicks,81.0,2016,17.0
+886,Philadelphia 76ers,116.0,Orlando Magic,130.0,2016,-14.0
+887,Cleveland Cavaliers,99.0,Washington Wizards,113.0,2016,-14.0
+888,Utah Jazz,95.0,Boston Celtics,100.0,2016,-5.0
+889,Indiana Pacers,96.0,Cleveland Cavaliers,100.0,2016,-4.0
+890,Memphis Grizzlies,103.0,Denver Nuggets,96.0,2016,7.0
+891,Brooklyn Nets,95.0,Los Angeles Clippers,105.0,2016,-10.0
+892,Houston Rockets,121.0,Milwaukee Bucks,128.0,2016,-7.0
+893,Oklahoma City Thunder,131.0,Sacramento Kings,116.0,2016,15.0
+894,Philadelphia 76ers,108.0,Washington Wizards,116.0,2016,-8.0
+896,Phoenix Suns,92.0,Charlotte Hornets,126.0,2016,-34.0
+897,Orlando Magic,108.0,Dallas Mavericks,121.0,2016,-13.0
+898,Atlanta Hawks,105.0,Golden State Warriors,109.0,2016,-4.0
+899,Brooklyn Nets,101.0,Los Angeles Lakers,107.0,2016,-6.0
+900,Chicago Bulls,111.0,Miami Heat,129.0,2016,-18.0
+901,Portland Trail Blazers,104.0,New York Knicks,85.0,2016,19.0
+902,Portland Trail Blazers,93.0,Boston Celtics,116.0,2016,-23.0
+903,Los Angeles Lakers,107.0,Denver Nuggets,117.0,2016,-10.0
+904,New Orleans Pelicans,95.0,Houston Rockets,100.0,2016,-5.0
+905,Oklahoma City Thunder,98.0,Los Angeles Clippers,103.0,2016,-5.0
+906,Sacramento Kings,98.0,Memphis Grizzlies,104.0,2016,-6.0
+907,Indiana Pacers,104.0,Milwaukee Bucks,99.0,2016,5.0
+908,Washington Wizards,104.0,Minnesota Timberwolves,98.0,2016,6.0
+909,Chicago Bulls,89.0,Orlando Magic,102.0,2016,-13.0
+910,Charlotte Hornets,119.0,Philadelphia 76ers,99.0,2016,20.0
+911,Detroit Pistons,81.0,San Antonio Spurs,97.0,2016,-16.0
+912,Utah Jazz,94.0,Toronto Raptors,104.0,2016,-10.0
+913,Sacramento Kings,104.0,Dallas Mavericks,101.0,2016,3.0
+914,Oklahoma City Thunder,106.0,Golden State Warriors,121.0,2016,-15.0
+915,Phoenix Suns,92.0,Miami Heat,108.0,2016,-16.0
+916,San Antonio Spurs,94.0,New Orleans Pelicans,86.0,2016,8.0
+917,New York Knicks,104.0,Boston Celtics,105.0,2016,-1.0
+918,Indiana Pacers,101.0,Charlotte Hornets,108.0,2016,-7.0
+919,Washington Wizards,83.0,Cleveland Cavaliers,108.0,2016,-25.0
+920,Brooklyn Nets,121.0,Denver Nuggets,120.0,2016,1.0
+921,Atlanta Hawks,106.0,Los Angeles Lakers,77.0,2016,29.0
+922,Utah Jazz,88.0,Memphis Grizzlies,94.0,2016,-6.0
+923,Minnesota Timberwolves,101.0,Milwaukee Bucks,116.0,2016,-15.0
+924,Phoenix Suns,102.0,Orlando Magic,84.0,2016,18.0
+925,Miami Heat,112.0,Philadelphia 76ers,102.0,2016,10.0
+926,Portland Trail Blazers,115.0,Toronto Raptors,117.0,2016,-2.0
+927,Houston Rockets,100.0,Chicago Bulls,108.0,2016,-8.0
+928,Boston Celtics,103.0,Cleveland Cavaliers,120.0,2016,-17.0
+929,Atlanta Hawks,107.0,Los Angeles Clippers,97.0,2016,10.0
+930,Brooklyn Nets,118.0,Minnesota Timberwolves,132.0,2016,-14.0
+931,Utah Jazz,106.0,New Orleans Pelicans,94.0,2016,12.0
+932,Detroit Pistons,89.0,New York Knicks,102.0,2016,-13.0
+933,Sacramento Kings,94.0,San Antonio Spurs,104.0,2016,-10.0
+934,Indiana Pacers,100.0,Washington Wizards,99.0,2016,1.0
+935,Dallas Mavericks,114.0,Denver Nuggets,116.0,2016,-2.0
+936,Portland Trail Blazers,103.0,Detroit Pistons,123.0,2016,-20.0
+937,Golden State Warriors,95.0,Los Angeles Lakers,112.0,2016,-17.0
+938,Phoenix Suns,109.0,Memphis Grizzlies,100.0,2016,9.0
+939,Philadelphia 76ers,98.0,Miami Heat,103.0,2016,-5.0
+940,Oklahoma City Thunder,104.0,Milwaukee Bucks,96.0,2016,8.0
+941,Houston Rockets,113.0,Toronto Raptors,107.0,2016,6.0
+942,Milwaukee Bucks,90.0,Chicago Bulls,100.0,2016,-10.0
+943,Minnesota Timberwolves,103.0,Charlotte Hornets,108.0,2016,-5.0
+944,Memphis Grizzlies,106.0,Cleveland Cavaliers,103.0,2016,3.0
+945,Los Angeles Clippers,109.0,Dallas Mavericks,90.0,2016,19.0
+946,Orlando Magic,113.0,Golden State Warriors,119.0,2016,-6.0
+947,San Antonio Spurs,91.0,Indiana Pacers,99.0,2016,-8.0
+948,Sacramento Kings,112.0,New Orleans Pelicans,115.0,2016,-3.0
+949,New York Knicks,94.0,Denver Nuggets,110.0,2016,-16.0
+950,Orlando Magic,98.0,Los Angeles Lakers,107.0,2016,-9.0
+951,San Antonio Spurs,116.0,Minnesota Timberwolves,91.0,2016,25.0
+952,Washington Wizards,109.0,Portland Trail Blazers,116.0,2016,-7.0
+953,Brooklyn Nets,99.0,Toronto Raptors,104.0,2016,-5.0
+954,Atlanta Hawks,91.0,Utah Jazz,84.0,2016,7.0
+955,Memphis Grizzlies,96.0,Boston Celtics,116.0,2016,-20.0
+956,New Orleans Pelicans,113.0,Charlotte Hornets,122.0,2016,-9.0
+957,Detroit Pistons,102.0,Dallas Mavericks,96.0,2016,6.0
+958,Utah Jazz,94.0,Golden State Warriors,115.0,2016,-21.0
+959,Miami Heat,108.0,Milwaukee Bucks,114.0,2016,-6.0
+960,Los Angeles Clippers,108.0,Oklahoma City Thunder,120.0,2016,-12.0
+961,Houston Rockets,118.0,Philadelphia 76ers,104.0,2016,14.0
+962,New York Knicks,128.0,Phoenix Suns,97.0,2016,31.0
+963,Cleveland Cavaliers,120.0,Sacramento Kings,111.0,2016,9.0
+964,Phoenix Suns,98.0,Denver Nuggets,116.0,2016,-18.0
+965,Cleveland Cavaliers,120.0,Los Angeles Lakers,108.0,2016,12.0
+966,Chicago Bulls,101.0,San Antonio Spurs,109.0,2016,-8.0
+967,Atlanta Hawks,96.0,Toronto Raptors,104.0,2016,-8.0
+968,Houston Rockets,102.0,Boston Celtics,98.0,2016,4.0
+969,Miami Heat,118.0,Chicago Bulls,96.0,2016,22.0
+970,Detroit Pistons,103.0,Charlotte Hornets,118.0,2016,-15.0
+971,Portland Trail Blazers,112.0,Golden State Warriors,128.0,2016,-16.0
+972,New York Knicks,94.0,Los Angeles Clippers,101.0,2016,-7.0
+973,New Orleans Pelicans,114.0,Memphis Grizzlies,121.0,2016,-7.0
+974,Minnesota Timberwolves,99.0,Oklahoma City Thunder,96.0,2016,3.0
+975,Brooklyn Nets,89.0,Philadelphia 76ers,95.0,2016,-6.0
+976,Orlando Magic,107.0,Sacramento Kings,100.0,2016,7.0
+977,Washington Wizards,93.0,Utah Jazz,114.0,2016,-21.0
+978,Memphis Grizzlies,83.0,Atlanta Hawks,95.0,2016,-12.0
+979,Houston Rockets,109.0,Charlotte Hornets,125.0,2016,-16.0
+980,Indiana Pacers,112.0,Dallas Mavericks,105.0,2016,7.0
+981,Washington Wizards,100.0,Denver Nuggets,116.0,2016,-16.0
+982,Phoenix Suns,116.0,Golden State Warriors,123.0,2016,-7.0
+983,New Orleans Pelicans,92.0,Milwaukee Bucks,103.0,2016,-11.0
+984,Detroit Pistons,125.0,Philadelphia 76ers,111.0,2016,14.0
+985,Orlando Magic,84.0,Portland Trail Blazers,121.0,2016,-37.0
+986,Oklahoma City Thunder,85.0,San Antonio Spurs,93.0,2016,-8.0
+987,Miami Heat,104.0,Toronto Raptors,112.0,2016,-8.0
+988,Indiana Pacers,75.0,Atlanta Hawks,104.0,2016,-29.0
+989,Milwaukee Bucks,109.0,Brooklyn Nets,100.0,2016,9.0
+990,Cleveland Cavaliers,114.0,Los Angeles Clippers,90.0,2016,24.0
+991,New York Knicks,90.0,Los Angeles Lakers,87.0,2016,3.0
+992,Utah Jazz,108.0,Sacramento Kings,99.0,2016,9.0
+993,Dallas Mavericks,107.0,Charlotte Hornets,96.0,2016,11.0
+994,New Orleans Pelicans,107.0,Golden State Warriors,125.0,2016,-18.0
+995,Memphis Grizzlies,81.0,Houston Rockets,130.0,2016,-49.0
+996,Denver Nuggets,119.0,Miami Heat,124.0,2016,-5.0
+997,Portland Trail Blazers,94.0,Oklahoma City Thunder,128.0,2016,-34.0
+998,Minnesota Timberwolves,104.0,Phoenix Suns,107.0,2016,-3.0
+999,Chicago Bulls,109.0,Toronto Raptors,107.0,2016,2.0
+1000,Cleveland Cavaliers,85.0,Utah Jazz,94.0,2016,-9.0
+1001,Detroit Pistons,81.0,Washington Wizards,124.0,2016,-43.0
+1002,Philadelphia 76ers,114.0,Brooklyn Nets,131.0,2016,-17.0
+1003,Boston Celtics,98.0,Indiana Pacers,103.0,2016,-5.0
+1004,Sacramento Kings,106.0,Los Angeles Lakers,98.0,2016,8.0
+1005,Toronto Raptors,107.0,Milwaukee Bucks,89.0,2016,18.0
+1006,Denver Nuggets,110.0,Orlando Magic,116.0,2016,-6.0
+1007,Los Angeles Clippers,87.0,San Antonio Spurs,108.0,2016,-21.0
+1008,Oklahoma City Thunder,130.0,Boston Celtics,109.0,2016,21.0
+1009,Orlando Magic,99.0,Charlotte Hornets,107.0,2016,-8.0
+1010,Dallas Mavericks,98.0,Cleveland Cavaliers,99.0,2016,-1.0
+1011,Atlanta Hawks,118.0,Detroit Pistons,114.0,2016,4.0
+1012,New York Knicks,85.0,Golden State Warriors,121.0,2016,-36.0
+1013,Los Angeles Clippers,122.0,Houston Rockets,106.0,2016,16.0
+1014,Minnesota Timberwolves,114.0,Memphis Grizzlies,108.0,2016,6.0
+1015,New Orleans Pelicans,123.0,Sacramento Kings,108.0,2016,15.0
+1016,Chicago Bulls,96.0,Washington Wizards,117.0,2016,-21.0
+1017,Denver Nuggets,98.0,Atlanta Hawks,116.0,2016,-18.0
+1018,Brooklyn Nets,102.0,Chicago Bulls,118.0,2016,-16.0
+1019,Toronto Raptors,101.0,Indiana Pacers,94.0,2016,7.0
+1020,Charlotte Hornets,109.0,Miami Heat,106.0,2016,3.0
+1021,Memphis Grizzlies,86.0,Milwaukee Bucks,96.0,2016,-10.0
+1022,Washington Wizards,99.0,Philadelphia 76ers,94.0,2016,5.0
+1023,Portland Trail Blazers,110.0,San Antonio Spurs,118.0,2016,-8.0
+1024,Phoenix Suns,69.0,Utah Jazz,103.0,2016,-34.0
+1025,Golden State Warriors,130.0,Dallas Mavericks,112.0,2016,18.0
+1026,Sacramento Kings,108.0,Detroit Pistons,115.0,2016,-7.0
+1027,Minnesota Timberwolves,111.0,Houston Rockets,116.0,2016,-5.0
+1028,Phoenix Suns,95.0,Los Angeles Lakers,90.0,2016,5.0
+1029,Portland Trail Blazers,117.0,New Orleans Pelicans,112.0,2016,5.0
+1030,Cleveland Cavaliers,109.0,Orlando Magic,103.0,2016,6.0
+1031,Oklahoma City Thunder,111.0,Philadelphia 76ers,97.0,2016,14.0
+1032,Boston Celtics,91.0,Toronto Raptors,105.0,2016,-14.0
+1033,Houston Rockets,97.0,Atlanta Hawks,109.0,2016,-12.0
+1034,Utah Jazz,85.0,Chicago Bulls,92.0,2016,-7.0
+1035,Denver Nuggets,101.0,Charlotte Hornets,93.0,2016,8.0
+1036,Brooklyn Nets,103.0,Detroit Pistons,115.0,2016,-12.0
+1037,Oklahoma City Thunder,115.0,Indiana Pacers,111.0,2016,4.0
+1038,Los Angeles Clippers,102.0,Memphis Grizzlies,113.0,2016,-11.0
+1039,Cleveland Cavaliers,101.0,Miami Heat,122.0,2016,-21.0
+1040,Golden State Warriors,79.0,San Antonio Spurs,87.0,2016,-8.0
+1041,New York Knicks,89.0,Washington Wizards,99.0,2016,-10.0
+1042,Portland Trail Blazers,120.0,Dallas Mavericks,132.0,2016,-12.0
+1043,Utah Jazz,94.0,Milwaukee Bucks,85.0,2016,9.0
+1044,Los Angeles Clippers,105.0,New Orleans Pelicans,109.0,2016,-4.0
+1045,Sacramento Kings,88.0,New York Knicks,80.0,2016,8.0
+1046,Boston Celtics,120.0,Philadelphia 76ers,105.0,2016,15.0
+1047,Orlando Magic,100.0,Toronto Raptors,105.0,2016,-5.0
+1048,Washington Wizards,117.0,Atlanta Hawks,102.0,2016,15.0
+1049,Orlando Magic,96.0,Boston Celtics,107.0,2016,-11.0
+1050,Sacramento Kings,102.0,Chicago Bulls,109.0,2016,-7.0
+1051,San Antonio Spurs,88.0,Charlotte Hornets,91.0,2016,-3.0
+1052,Denver Nuggets,91.0,Cleveland Cavaliers,124.0,2016,-33.0
+1053,Milwaukee Bucks,91.0,Detroit Pistons,92.0,2016,-1.0
+1054,Philadelphia 76ers,75.0,Indiana Pacers,91.0,2016,-16.0
+1055,Golden State Warriors,109.0,Minnesota Timberwolves,104.0,2016,5.0
+1056,Memphis Grizzlies,103.0,Phoenix Suns,97.0,2016,6.0
+1057,Charlotte Hornets,105.0,Brooklyn Nets,100.0,2016,5.0
+1058,Memphis Grizzlies,100.0,Los Angeles Lakers,107.0,2016,-7.0
+1059,Miami Heat,113.0,New Orleans Pelicans,99.0,2016,14.0
+1060,Houston Rockets,107.0,Oklahoma City Thunder,111.0,2016,-4.0
+1061,Toronto Raptors,79.0,Boston Celtics,91.0,2016,-12.0
+1062,New York Knicks,115.0,Chicago Bulls,107.0,2016,8.0
+1063,Milwaukee Bucks,104.0,Cleveland Cavaliers,113.0,2016,-9.0
+1064,Philadelphia 76ers,103.0,Denver Nuggets,104.0,2016,-1.0
+1065,Orlando Magic,102.0,Detroit Pistons,118.0,2016,-16.0
+1066,Los Angeles Clippers,98.0,Golden State Warriors,114.0,2016,-16.0
+1067,Utah Jazz,89.0,Houston Rockets,87.0,2016,2.0
+1068,Sacramento Kings,104.0,Minnesota Timberwolves,113.0,2016,-9.0
+1069,Los Angeles Lakers,107.0,Phoenix Suns,119.0,2016,-12.0
+1070,Dallas Mavericks,103.0,Portland Trail Blazers,109.0,2016,-6.0
+1071,Miami Heat,88.0,San Antonio Spurs,112.0,2016,-24.0
+1072,Atlanta Hawks,122.0,Washington Wizards,101.0,2016,21.0
+1073,Cleveland Cavaliers,95.0,Brooklyn Nets,104.0,2016,-9.0
+1074,New Orleans Pelicans,84.0,Indiana Pacers,92.0,2016,-8.0
+1075,Portland Trail Blazers,94.0,Los Angeles Clippers,96.0,2016,-2.0
+1076,Chicago Bulls,94.0,New York Knicks,106.0,2016,-12.0
+1077,Utah Jazz,91.0,Oklahoma City Thunder,113.0,2016,-22.0
+1078,Milwaukee Bucks,90.0,Atlanta Hawks,101.0,2016,-11.0
+1079,Charlotte Hornets,105.0,Detroit Pistons,112.0,2016,-7.0
+1080,Dallas Mavericks,120.0,Golden State Warriors,128.0,2016,-8.0
+1081,Toronto Raptors,109.0,Houston Rockets,112.0,2016,-3.0
+1082,Denver Nuggets,116.0,Los Angeles Lakers,105.0,2016,11.0
+1083,Orlando Magic,97.0,Miami Heat,108.0,2016,-11.0
+1084,Phoenix Suns,94.0,Sacramento Kings,116.0,2016,-22.0
+1085,Memphis Grizzlies,104.0,San Antonio Spurs,110.0,2016,-6.0
+1086,Minnesota Timberwolves,132.0,Washington Wizards,129.0,2016,3.0
+1087,Indiana Pacers,110.0,Brooklyn Nets,120.0,2016,-10.0
+1088,Atlanta Hawks,112.0,Detroit Pistons,95.0,2016,17.0
+1089,Charlotte Hornets,115.0,Milwaukee Bucks,91.0,2016,24.0
+1090,Utah Jazz,93.0,Minnesota Timberwolves,84.0,2016,9.0
+1091,Toronto Raptors,115.0,New Orleans Pelicans,91.0,2016,24.0
+1092,Cleveland Cavaliers,107.0,New York Knicks,93.0,2016,14.0
+1093,San Antonio Spurs,92.0,Oklahoma City Thunder,111.0,2016,-19.0
+1094,Chicago Bulls,89.0,Orlando Magic,111.0,2016,-22.0
+1095,Boston Celtics,102.0,Phoenix Suns,99.0,2016,3.0
+1096,Philadelphia 76ers,105.0,Portland Trail Blazers,108.0,2016,-3.0
+1097,Philadelphia 76ers,105.0,Golden State Warriors,117.0,2016,-12.0
+1098,Houston Rockets,101.0,Indiana Pacers,104.0,2016,-3.0
+1099,Denver Nuggets,90.0,Los Angeles Clippers,105.0,2016,-15.0
+1100,Washington Wizards,101.0,Los Angeles Lakers,88.0,2016,13.0
+1101,Dallas Mavericks,111.0,Sacramento Kings,133.0,2016,-22.0
+1102,Atlanta Hawks,102.0,Chicago Bulls,100.0,2016,2.0
+1103,Dallas Mavericks,97.0,Denver Nuggets,88.0,2016,9.0
+1104,Boston Celtics,90.0,Los Angeles Clippers,114.0,2016,-24.0
+1105,San Antonio Spurs,101.0,Memphis Grizzlies,87.0,2016,14.0
+1106,Brooklyn Nets,99.0,Miami Heat,110.0,2016,-11.0
+1107,Phoenix Suns,116.0,Minnesota Timberwolves,121.0,2016,-5.0
+1108,New York Knicks,91.0,New Orleans Pelicans,99.0,2016,-8.0
+1109,Sacramento Kings,93.0,Portland Trail Blazers,105.0,2016,-12.0
+1110,Oklahoma City Thunder,119.0,Toronto Raptors,100.0,2016,19.0
+1111,Los Angeles Lakers,75.0,Utah Jazz,123.0,2016,-48.0
+1112,Houston Rockets,106.0,Cleveland Cavaliers,100.0,2016,6.0
+1113,Oklahoma City Thunder,82.0,Detroit Pistons,88.0,2016,-6.0
+1114,Washington Wizards,94.0,Golden State Warriors,102.0,2016,-8.0
+1115,Chicago Bulls,98.0,Indiana Pacers,96.0,2016,2.0
+1116,Brooklyn Nets,105.0,Orlando Magic,139.0,2016,-34.0
+1117,Charlotte Hornets,100.0,Philadelphia 76ers,85.0,2016,15.0
+1118,New York Knicks,89.0,Dallas Mavericks,91.0,2016,-2.0
+1119,Miami Heat,100.0,Los Angeles Lakers,102.0,2016,-2.0
+1120,Denver Nuggets,109.0,Memphis Grizzlies,105.0,2016,4.0
+1121,Phoenix Suns,94.0,Milwaukee Bucks,105.0,2016,-11.0
+1122,Los Angeles Clippers,99.0,Minnesota Timberwolves,79.0,2016,20.0
+1123,Washington Wizards,111.0,Sacramento Kings,120.0,2016,-9.0
+1124,New Orleans Pelicans,92.0,San Antonio Spurs,100.0,2016,-8.0
+1125,Atlanta Hawks,97.0,Toronto Raptors,105.0,2016,-8.0
+1126,Golden State Warriors,103.0,Utah Jazz,96.0,2016,7.0
+1127,Brooklyn Nets,87.0,Cleveland Cavaliers,107.0,2016,-20.0
+1128,Chicago Bulls,103.0,Houston Rockets,100.0,2016,3.0
+1129,Orlando Magic,114.0,Indiana Pacers,94.0,2016,20.0
+1130,Denver Nuggets,95.0,New Orleans Pelicans,101.0,2016,-6.0
+1131,Los Angeles Clippers,117.0,Oklahoma City Thunder,119.0,2016,-2.0
+1132,Boston Celtics,109.0,Portland Trail Blazers,116.0,2016,-7.0
+1134,Cleveland Cavaliers,110.0,Atlanta Hawks,108.0,2016,2.0
+1135,Philadelphia 76ers,91.0,Charlotte Hornets,100.0,2016,-9.0
+1136,Dallas Mavericks,98.0,Detroit Pistons,89.0,2016,9.0
+1137,Boston Celtics,109.0,Golden State Warriors,106.0,2016,3.0
+1138,Toronto Raptors,99.0,Memphis Grizzlies,95.0,2016,4.0
+1139,Orlando Magic,110.0,Milwaukee Bucks,113.0,2016,-3.0
+1140,Brooklyn Nets,91.0,New York Knicks,105.0,2016,-14.0
+1141,Washington Wizards,106.0,Phoenix Suns,99.0,2016,7.0
+1142,Miami Heat,112.0,Sacramento Kings,106.0,2016,6.0
+1143,Minnesota Timberwolves,85.0,Utah Jazz,98.0,2016,-13.0
+1144,Detroit Pistons,94.0,Chicago Bulls,90.0,2016,4.0
+1145,Sacramento Kings,115.0,Denver Nuggets,106.0,2016,9.0
+1146,Indiana Pacers,115.0,Philadelphia 76ers,102.0,2016,13.0
+1147,Miami Heat,93.0,Portland Trail Blazers,110.0,2016,-17.0
+1148,Toronto Raptors,95.0,San Antonio Spurs,102.0,2016,-7.0
+1149,New Orleans Pelicans,106.0,Brooklyn Nets,87.0,2016,19.0
+1150,Charlotte Hornets,103.0,Cleveland Cavaliers,112.0,2016,-9.0
+1151,Portland Trail Blazers,111.0,Golden State Warriors,136.0,2016,-25.0
+1152,Oklahoma City Thunder,110.0,Houston Rockets,118.0,2016,-8.0
+1153,Washington Wizards,109.0,Los Angeles Clippers,114.0,2016,-5.0
+1154,Boston Celtics,107.0,Los Angeles Lakers,100.0,2016,7.0
+1155,Chicago Bulls,102.0,Milwaukee Bucks,98.0,2016,4.0
+1156,Dallas Mavericks,88.0,Minnesota Timberwolves,78.0,2016,10.0
+1157,Indiana Pacers,92.0,New York Knicks,87.0,2016,5.0
+1158,Memphis Grizzlies,107.0,Orlando Magic,119.0,2016,-12.0
+1159,Utah Jazz,101.0,Phoenix Suns,86.0,2016,15.0
+1160,Phoenix Suns,90.0,Atlanta Hawks,103.0,2016,-13.0
+1161,Oklahoma City Thunder,124.0,Denver Nuggets,102.0,2016,22.0
+1162,Minnesota Timberwolves,124.0,Golden State Warriors,117.0,2016,7.0
+1163,Los Angeles Lakers,81.0,Los Angeles Clippers,103.0,2016,-22.0
+1164,Chicago Bulls,92.0,Memphis Grizzlies,108.0,2016,-16.0
+1165,Detroit Pistons,89.0,Miami Heat,107.0,2016,-18.0
+1166,Cleveland Cavaliers,109.0,Milwaukee Bucks,80.0,2016,29.0
+1167,New Orleans Pelicans,93.0,Philadelphia 76ers,107.0,2016,-14.0
+1168,Portland Trail Blazers,115.0,Sacramento Kings,107.0,2016,8.0
+1169,Charlotte Hornets,90.0,Toronto Raptors,96.0,2016,-6.0
+1170,San Antonio Spurs,88.0,Utah Jazz,86.0,2016,2.0
+1171,New Orleans Pelicans,97.0,Boston Celtics,104.0,2016,-7.0
+1172,Houston Rockets,86.0,Dallas Mavericks,88.0,2016,-2.0
+1173,Cleveland Cavaliers,109.0,Indiana Pacers,123.0,2016,-14.0
+1174,Los Angeles Clippers,91.0,Los Angeles Lakers,81.0,2016,10.0
+1175,Charlotte Hornets,111.0,New York Knicks,97.0,2016,14.0
+1176,Detroit Pistons,108.0,Orlando Magic,104.0,2016,4.0
+1177,Oklahoma City Thunder,115.0,Portland Trail Blazers,120.0,2016,-5.0
+1178,Brooklyn Nets,103.0,Washington Wizards,121.0,2016,-18.0
+1179,Toronto Raptors,87.0,Atlanta Hawks,95.0,2016,-8.0
+1180,San Antonio Spurs,101.0,Golden State Warriors,112.0,2016,-11.0
+1181,Phoenix Suns,124.0,Houston Rockets,115.0,2016,9.0
+1182,Chicago Bulls,98.0,Miami Heat,106.0,2016,-8.0
+1183,Minnesota Timberwolves,105.0,Sacramento Kings,97.0,2016,8.0
+1184,Milwaukee Bucks,109.0,Boston Celtics,124.0,2016,-15.0
+1185,Brooklyn Nets,99.0,Charlotte Hornets,113.0,2016,-14.0
+1186,Memphis Grizzlies,93.0,Dallas Mavericks,103.0,2016,-10.0
+1187,San Antonio Spurs,98.0,Denver Nuggets,102.0,2016,-4.0
+1188,Washington Wizards,99.0,Detroit Pistons,112.0,2016,-13.0
+1189,Los Angeles Lakers,102.0,New Orleans Pelicans,110.0,2016,-8.0
+1190,Miami Heat,109.0,Orlando Magic,112.0,2016,-3.0
+1191,New York Knicks,109.0,Philadelphia 76ers,102.0,2016,7.0
+1192,Indiana Pacers,98.0,Toronto Raptors,111.0,2016,-13.0
+1193,Los Angeles Clippers,102.0,Utah Jazz,99.0,2016,3.0
+1194,Boston Celtics,107.0,Atlanta Hawks,118.0,2016,-11.0
+1195,Cleveland Cavaliers,102.0,Chicago Bulls,105.0,2016,-3.0
+1196,Golden State Warriors,100.0,Memphis Grizzlies,99.0,2016,1.0
+1197,Phoenix Suns,121.0,New Orleans Pelicans,100.0,2016,21.0
+1198,Minnesota Timberwolves,106.0,Portland Trail Blazers,105.0,2016,1.0
+1199,Oklahoma City Thunder,112.0,Sacramento Kings,114.0,2016,-2.0
+1200,Utah Jazz,100.0,Denver Nuggets,84.0,2016,16.0
+1201,Los Angeles Lakers,110.0,Houston Rockets,130.0,2016,-20.0
+1202,Brooklyn Nets,105.0,Indiana Pacers,129.0,2016,-24.0
+1203,Dallas Mavericks,91.0,Los Angeles Clippers,98.0,2016,-7.0
+1204,Orlando Magic,96.0,Miami Heat,118.0,2016,-22.0
+1205,Toronto Raptors,93.0,New York Knicks,89.0,2016,4.0
+1206,Milwaukee Bucks,109.0,Philadelphia 76ers,108.0,2016,1.0
+1207,Golden State Warriors,92.0,San Antonio Spurs,86.0,2016,6.0
+1208,Charlotte Hornets,98.0,Washington Wizards,113.0,2016,-15.0
+1209,Charlotte Hornets,114.0,Boston Celtics,100.0,2016,14.0
+1210,Washington Wizards,120.0,Brooklyn Nets,111.0,2016,9.0
+1211,Atlanta Hawks,94.0,Cleveland Cavaliers,109.0,2016,-15.0
+1212,Houston Rockets,129.0,Minnesota Timberwolves,105.0,2016,24.0
+1213,Chicago Bulls,121.0,New Orleans Pelicans,116.0,2016,5.0
+1214,Los Angeles Lakers,79.0,Oklahoma City Thunder,112.0,2016,-33.0
+1215,Milwaukee Bucks,98.0,Orlando Magic,107.0,2016,-9.0
+1216,Sacramento Kings,105.0,Phoenix Suns,101.0,2016,4.0
+1217,Dallas Mavericks,101.0,Utah Jazz,92.0,2016,9.0
+1218,Miami Heat,99.0,Detroit Pistons,93.0,2016,6.0
+1219,New York Knicks,90.0,Indiana Pacers,102.0,2016,-12.0
+1220,Memphis Grizzlies,84.0,Los Angeles Clippers,110.0,2016,-26.0
+1221,Oklahoma City Thunder,98.0,San Antonio Spurs,102.0,2016,-4.0
+1222,Philadelphia 76ers,98.0,Toronto Raptors,122.0,2016,-24.0
+1223,Miami Heat,88.0,Boston Celtics,98.0,2016,-10.0
+1224,Toronto Raptors,103.0,Brooklyn Nets,96.0,2016,7.0
+1225,Philadelphia 76ers,105.0,Chicago Bulls,115.0,2016,-10.0
+1226,Orlando Magic,103.0,Charlotte Hornets,117.0,2016,-14.0
+1227,Detroit Pistons,112.0,Cleveland Cavaliers,110.0,2016,2.0
+1228,San Antonio Spurs,96.0,Dallas Mavericks,91.0,2016,5.0
+1229,Memphis Grizzlies,104.0,Golden State Warriors,125.0,2016,-21.0
+1230,Sacramento Kings,81.0,Houston Rockets,116.0,2016,-35.0
+1231,Utah Jazz,96.0,Los Angeles Lakers,101.0,2016,-5.0
+1232,Indiana Pacers,97.0,Milwaukee Bucks,92.0,2016,5.0
+1233,New Orleans Pelicans,109.0,Minnesota Timberwolves,144.0,2016,-35.0
+1234,Los Angeles Clippers,105.0,Phoenix Suns,114.0,2016,-9.0
+1235,Denver Nuggets,99.0,Portland Trail Blazers,107.0,2016,-8.0
+1236,Atlanta Hawks,98.0,Washington Wizards,109.0,2016,-11.0
