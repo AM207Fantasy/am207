@@ -30,7 +30,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 26,James Harden,Houston Rockets,15756438,16784031,17811625,,,,Bird Rights,41446282
 27,Eric Gordon,New Orleans Pelicans,15514031,,,,,,Bird Rights,15514031
 28,Roy Hibbert,Los Angeles Lakers,15500000,,,,,,Bird Rights,15500000
-29,Klay Thompson,GolDenver Nuggets State Warriors,15500000,16662500,17825500,18987500,,,1st Round Pick,68975500
+29,Klay Thompson,Golden State Warriors,15500000,16662500,17825500,18987500,,,1st Round Pick,68975500
 30,David Lee,Boston Celtics,15493680,,,,,,,15493680
 31,Gordon Hayward,Utah Jazz,15409570,16073140,16736710,,,,Bird Rights,31482710
 32,Chandler Parsons,Dallas Mavericks,15361500,16023000,,,,,Cap Space,15361500
@@ -39,7 +39,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 35,Goran Dragic,Miami Heat,14780000,15890000,17000000,18110000,19220000,,Bird Rights,65780000
 36,Kyrie Irving,Cleveland Cavaliers,14746000,15851950,16957900,18063850,19169800,,Early Bird Rights,65619700
 37,DeMarcus Cousins,Sacramento Kings,14728844,15756438,16784031,,,,1st Round Pick,47269313
-38,Draymond Green,GolDenver Nuggets State Warriors,14300000,15300000,16400000,17500000,18500000,,Bird Rights,82000000
+38,Draymond Green,Golden State Warriors,14300000,15300000,16400000,17500000,18500000,,Bird Rights,82000000
 39,Tristan Thompson,Cleveland Cavaliers,14260870,15330435,16400000,17469565,18539130,,Bird Rights,82000000
 40,Reggie Jackson,Detroit Pistons,14000000,15000000,16000000,17000000,18000000,,Bird Rights,80000000
 ,,,Salary,Salary,Salary,Salary,Salary,Salary,,
@@ -62,15 +62,15 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 56,Kyle Lowry,Toronto Raptors,12000000,12000000,12000000,,,,Bird Rights,24000000
 57,Brandon Knight,Phoenix Suns,12000000,13000000,14000000,15000000,16000000,,,70000000
 58,JaVale McGee,Philadelphia 76ers,12000000,,,,,,,12000000
-59,Andrew Bogut,GolDenver Nuggets State Warriors,12000000,11027027,,,,,Bird Rights,23027027
+59,Andrew Bogut,Golden State Warriors,12000000,11027027,,,,,Bird Rights,23027027
 60,Kemba Walker,Charlotte Hornets,12000000,12000000,12000000,12000000,,,1st Round Pick,48000000
 ,,,Salary,Salary,Salary,Salary,Salary,Salary,,
 Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaranteed
 61,Amir Johnson,Boston Celtics,12000000,12000000,,,,,Cap Space,12000000
 62,Al Horford,Atlanta Hawks,12000000,,,,,,Bird Rights,12000000
 63,Derrick Favors,Utah Jazz,11933333,10983333,11933333,,,,1st Round Pick,34300000
-64,Andre Iguodala,GolDenver Nuggets State Warriors,11710456,11131368,,,,,Bird Rights,22841824
-65,Stephen Curry,GolDenver Nuggets State Warriors,11370786,12112359,,,,,Bird Rights,23483145
+64,Andre Iguodala,Golden State Warriors,11710456,11131368,,,,,Bird Rights,22841824
+65,Stephen Curry,Golden State Warriors,11370786,12112359,,,,,Bird Rights,23483145
 66,Nikola Vucevic,Orlando Magic,11250000,11750000,12250000,12750000,,,Bird Rights,48000000
 67,Kenneth Faried,Denver Nuggets,11235955,12078652,12921348,13764045,,,1st Round Pick,50000000
 68,Tyreke Evans,New Orleans Pelicans,11227000,11690500,,,,,Bird Rights,22917500
@@ -132,7 +132,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 120,Aron Baynes,Detroit Pistons,6500000,6500000,6500000,,,,Cap Space,13000000
 ,,,Salary,Salary,Salary,Salary,Salary,Salary,,
 Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaranteed
-121,Jason Thompson,GolDenver Nuggets State Warriors,6431250,6825000,,,,,,9410205
+121,Jason Thompson,Golden State Warriors,6431250,6825000,,,,,,9410205
 122,Marco Belinelli,Sacramento Kings,6333333,6333333,6333333,,,,Cap Space,18999999
 123,Michael Kidd-Gilchrist,Charlotte Hornets,6331404,13000000,13000000,13000000,13000000,,1st Round Pick,45331404
 124,Jarrett Jack,Brooklyn Nets,6300000,6300000,,,,,Cap Space,6800000
@@ -149,7 +149,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 135,Martell Webster,Washington Wizards,5613500,830000,830000,830000,,,,8103500
 136,J.J. Hickson,Denver Nuggets,5613500,,,,,,,5613500
 137,Josh McRoberts,Miami Heat,5543725,5782450,6021175,,,,MLE,11326175
-138,Shaun Livingston,GolDenver Nuggets State Warriors,5543725,5782450,,,,,MLE,8543725
+138,Shaun Livingston,Golden State Warriors,5543725,5782450,,,,,MLE,8543725
 139,Spencer Hawes,Charlotte Hornets,5543725,5782450,6021175,,,,MLE,11326175
 140,Nikola Mirotic,Chicago Bulls,5543725,5782450,,,,,Cap Space,11326175
 ,,,Salary,Salary,Salary,Salary,Salary,Salary,,
@@ -209,8 +209,8 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 189,J.J. Barea,Dallas Mavericks,4000000,4000000,4000000,4000000,,,Cap Space,16000000
 190,Thabo Sefolosha,Atlanta Hawks,4000000,3850000,,,,,,7850000
 191,Raymond Felton,Dallas Mavericks,3950313,,,,,,Cap Space,3950313
-192,Harrison Barnes,GolDenver Nuggets State Warriors,3873398,,,,,,1st Round Pick,3873398
-193,Marreese Speights,GolDenver Nuggets State Warriors,3815000,,,,,,MLE,3815000
+192,Harrison Barnes,Golden State Warriors,3873398,,,,,,1st Round Pick,3873398
+193,Marreese Speights,Golden State Warriors,3815000,,,,,,MLE,3815000
 194,Alex Len,Phoenix Suns,3807120,4823621,,,,,1st Round Pick,8630741
 195,Dante Exum,Utah Jazz,3777720,3940320,4992385,,,,1st Round Pick,7718040
 196,Nick Collison,Oklahoma City Thunder,3750000,3750000,,,,,Bird Rights,7500000
@@ -279,7 +279,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 253,C.J. McCollum,Portland Trail Blazers,2525160,3219579,,,,,1st Round Pick,5744739
 254,Elfrid Payton,Orlando Magic,2505720,2613600,3332340,,,,1st Round Pick,5119320
 255,James Johnson,Toronto Raptors,2500000,,,,,,Cap Space,2500000
-256,Leandro Barbosa,GolDenver Nuggets State Warriors,2500000,,,,,,Mini MLE,2500000
+256,Leandro Barbosa,Golden State Warriors,2500000,,,,,,Mini MLE,2500000
 257,Joel Anthony,Detroit Pistons,2500000,2500000,,,,,Cap Space,2500000
 258,Terrence Jones,Houston Rockets,2489530,,,,,,1st Round Pick,2489530
 259,Justise Winslow,Miami Heat,2481720,2593440,2705040,3448926,,,1st round pick,5075160
@@ -318,7 +318,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 288,T.J. Warren,Phoenix Suns,2041080,2128920,3152931,,,,1st Round Pick,4170000
 289,Perry Jones,Boston Celtics,2038206,,,,,,,2038206
 290,Cameron Payne,Oklahoma City Thunder,2021520,2112480,2203440,3263295,,,1st round pick,4134000
-291,Festus Ezeli,GolDenver Nuggets State Warriors,2008748,,,,,,1st Round Pick,2008748
+291,Festus Ezeli,Golden State Warriors,2008748,,,,,,1st Round Pick,2008748
 292,DeJuan Blair,Phoenix Suns,2000000,2000000,,,,,,2000000
 293,Aaron Brooks,Chicago Bulls,2000000,,,,,,Mini MLE,2000000
 294,Kent Bazemore,Atlanta Hawks,2000000,,,,,,,2000000
@@ -387,7 +387,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 351,Shabazz Napier,Orlando Magic,1294440,1350120,2361360,,,,1st Round Pick,2644560
 352,Tyus Jones,Minnesota Timberwolves,1282080,1339680,1397400,2444053,,,1st Round pick,2621760
 353,Luc Mbah a Moute,Los Angeles Clippers,1270964,,,,,,Minimum Salary,1270964
-354,Brandon Rush,GolDenver Nuggets State Warriors,1270964,,,,,,Minimum Salary,1270964
+354,Brandon Rush,Golden State Warriors,1270964,,,,,,Minimum Salary,1270964
 355,Cartier Martin,Detroit Pistons,1270964,,,,,,,1270964
 356,JaVale McGee,Dallas Mavericks,1270964,1403611,,,,,Bird Rights,750000
 357,Reggie Bullock,Detroit Pistons,1252440,2255644,,,,,1st Round Pick,3508084
@@ -412,7 +412,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 374,Kyle Anderson,San Antonio Spurs,1142879,1192080,2151704,,,,1st Round Pick,2334959
 375,Josh Huestis,Oklahoma City Thunder,1140240,1191480,1242840,2243326,,,,2331720
 376,Chris McCullough,Brooklyn Nets,1140240,1191480,1242840,2243326,,,1st Round pick,2331720
-377,Kevon Looney,GolDenver Nuggets State Warriors,1131960,1182840,1233840,2227081,,,1st Round pick,2314800
+377,Kevon Looney,Golden State Warriors,1131960,1182840,1233840,2227081,,,1st Round pick,2314800
 378,Garrett Temple,Washington Wizards,1100602,,,,,,Minimum Salary,1100602
 379,Ish Smith,Philadelphia 76ers,1100602,,,,,,,
 380,Jeremy Evans,Dallas Mavericks,1100602,1227286,,,,,Early Bird Rights,2327888
@@ -454,7 +454,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 412,Allen Crabbe,Portland Trail Blazers,947276,,,,,,Cap Space,947276
 413,Isaiah Canaan,Philadelphia 76ers,947276,,,,,,Cap Space,947276
 414,Hollis Thompson,Philadelphia 76ers,947276,1015696,,,,,Cap Space,947276
-415,Ian Clark,GolDenver Nuggets State Warriors,947276,,,,,,Minimum Salary,947276
+415,Ian Clark,Golden State Warriors,947276,,,,,,Minimum Salary,947276
 416,Troy Daniels,Charlotte Hornets,947276,,,,,,Minimum Salary,947276
 417,Willie Reed,Brooklyn Nets,947276,,,,,,Minimum Salary,947276
 418,Mike Muscala,Atlanta Hawks,947276,,,,,,Minimum Salary,947276
@@ -480,7 +480,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 436,Jordan Clarkson,Los Angeles Lakers,845059,,,,,,Minimum Salary,845059
 437,Tarik Black,Los Angeles Lakers,845059,,,,,,Minimum Salary,845059
 438,Shayne Whittington,Indiana Pacers,845059,980431,,,,,Minimum Salary,845059
-439,James Michael McAdoo,GolDenver Nuggets State Warriors,845059,,,,,,Minimum Salary,845059
+439,James Michael McAdoo,Golden State Warriors,845059,,,,,,Minimum Salary,845059
 440,Spencer Dinwiddie,Detroit Pistons,845059,980431,,,,,Cap Space,845059
 ,,,Salary,Salary,Salary,Salary,Salary,Salary,,
 Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaranteed
@@ -513,7 +513,7 @@ Rk,Player,Tm,2015-16,2016-17,2017-18,2018-19,2019-20,2020-21,Signed Using,Guaran
 465,Lamar Patterson,Atlanta Hawks,525093,874636,,,,,Minimum Salary,525093
 466,Cristiano Felicio,Chicago Bulls,525090,874636,,,,,Minimum Salary,525090
 467,Jimmer Fredette,San Antonio Spurs,507711,,,,,,,622254
-468,Anderson Varejao,GolDenver Nuggets State Warriors,458575,,,,,,Minimum Salary,458575
+468,Anderson Varejao,Golden State Warriors,458575,,,,,,Minimum Salary,458575
 469,Aaron Gray,Detroit Pistons,452059,452059,452059,,,,,1356177
 470,Steve Novak,Milwaukee Bucks,416886,,,,,,Minimum Salary,416886
 471,Joe Johnson,Miami Heat,414481,,,,,,Minimum Salary,414481
