@@ -1,2 +1,8 @@
+# Temporary files
 .ipynb_checkpoints/*
 *.swp
+
+# Generated files
+*.npy
+figure/*.pdf
+*.png
