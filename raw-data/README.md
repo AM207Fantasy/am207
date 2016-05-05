@@ -19,7 +19,8 @@ Explanation of the data:
   regular season. Source for 2015-2016:
   http://www.basketball-reference.com/leagues/NBA_2016_games.html
 
-+ salary.csv: Salary information for the players.
++ salary.csv: Salary information for the players. 
+  Source: http://www.basketball-reference.com/contracts/players.html
 
 We only provided links for the 2015-2016 data. On the
 [basketball-reference.com](http://www.basketball-reference.com) website,
