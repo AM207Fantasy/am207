@@ -51,3 +51,8 @@ in this order):
 
 This is implemented in the notebook `Condition Estimation.ipynb`.
 
+### Other Folders
+
++ `attic`: Contains old stuff we didn't actually use
++ `figure`: Just an empty folder---running the code will put figures
+  here
