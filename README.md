@@ -5,11 +5,14 @@ Data Analysis, Inference, and Optimization, Spring 2016.
 
 By: Xingchi Dai, Andy Shi, Hyungmok Son, Hidenori Tanaka
 
-## Report
 
-Our report can be found here: TBD
 
-## Description of Files:
+## Description of Files
+
+## Report and Poster
+
++ `AM207_Poster.pdf`: Project poster
++ `AM207_Final_Project_Report.pdf`: Final report
 
 ### Data
 
