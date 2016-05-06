@@ -1,4 +1,4 @@
-# AM 207 Fantasy Basketball
+# AM 207 Final Project: Stochastic Methods for Fantasy Basketball
 
 Final project for Harvard's Applied Math 207: Stochastic Methods for
 Data Analysis, Inference, and Optimization, Spring 2016.
