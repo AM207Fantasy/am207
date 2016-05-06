@@ -5,8 +5,10 @@ Data Analysis, Inference, and Optimization, Spring 2016.
 
 By: Xingchi Dai, Andy Shi, Hyungmok Son, Hidenori Tanaka
 
-Check out our report (`AM207_Final_Project_Report.pdf`) and poster
-(`AM207_Poster.pdf`)!
+---
+
+Check out our [report](https://github.com/AM207Fantasy/am207/blob/master/AM207_Final_Project_Report.pdf)
+and [poster](https://github.com/AM207Fantasy/am207/blob/master/AM207_Poster.pdf)!
 
 Link to our screencast: https://youtu.be/zmZmO3sPxx8
 
