@@ -48,6 +48,7 @@ in this order):
   sampling (ESS) on a single game.
 + `ESS_entire games.ipynb`: Contains code for running ESS on the whole
   season.
++ `Simulated Annealing.ipynb`: Contains code for running simulated annealing to find the best line-up basketball team
 + `pystan.ipynb`: Contains code for a model in PyStan.
 
 ### Player Condition
